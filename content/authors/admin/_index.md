@@ -29,8 +29,8 @@ education:
     - course: MRes Analysis and Policy in Economics
       institution: Paris School of Economics
       year: 2020
-    - course: Graduate Program
-      institution: École normale supérieure (Ulm)
+    - course: ENS Graduate Degree
+      institution: École normale supérieure - PSL
       year: 2021
     - course: BA in Philosophy
       institution: Pantheon-Sorbonne University
@@ -45,6 +45,5 @@ title: Joseph Enguehard
 first_name: Alice
 email: ""
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD candidate in Economics at the Center for Economic Reserch on Governance, Inequality and Conflict (CERGIC) within the École normale supérieure in Lyon, France. My research interests include distributed political economy, growth and economic history.
 {style="text-align: justify;"}
