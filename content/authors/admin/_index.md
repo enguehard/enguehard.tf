@@ -39,12 +39,12 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Enguehard
 role: PhD Candidate in Economics
 highlight_name: true
-title: Joseph Enguehard
-first_name: Alice
-email: ""
+title:
+first_name: Joseph
+email: "joseph.enguehard@ens-lyon.fr"
 ---
 I am a PhD candidate in Economics at the Center for Economic Reserch on Governance, Inequality and Conflict (CERGIC) within the École normale supérieure in Lyon, France. My research interests include distributed political economy, growth and economic history.
 {style="text-align: justify;"}
