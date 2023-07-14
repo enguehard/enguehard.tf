@@ -2,16 +2,16 @@
 bio: My research interests include distributed political economy, growth and
   economic history.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Political Economy
+  - Growth
+  - Economic History
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/EnguehardJoseph
     label: Follow me on Twitter
     display:
       header: true
@@ -21,15 +21,12 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: École normale supérieure de Lyon
+    url: http://www.ens-lyon.fr/en/
 education:
   courses:
     - course: PhD in Artificial Intelligence
