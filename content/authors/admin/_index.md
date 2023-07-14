@@ -42,7 +42,7 @@ status:
 last_name: Enguehard
 role: PhD Candidate in Economics
 highlight_name: true
-title:
+title: Joseph Enguehard
 first_name: Joseph
 email: "joseph.enguehard@ens-lyon.fr"
 ---

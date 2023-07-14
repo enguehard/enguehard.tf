@@ -8,7 +8,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title:
+      title: Joseph Enguehard
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: features
