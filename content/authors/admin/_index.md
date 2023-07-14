@@ -29,15 +29,15 @@ organizations:
     url: http://www.ens-lyon.fr/en/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MRes Analysis and Policy in Economics
+      institution: Paris School of Economics
+      year: 2020
+    - course: Graduate Program
+      institution: École normale supérieure (Ulm)
+      year: 2021
+    - course: BA in Philosophy
+      institution: Pantheon-Sorbonne University
+      year: 2017
 superuser: true
 status:
   icon: ☕️
