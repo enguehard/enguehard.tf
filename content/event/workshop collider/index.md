@@ -1,24 +1,24 @@
 ---
-title: Example Talk
+title: Advanced Methods Workshop
 
-event: Wowchemy Conference
+event: Advanced Methods Workshop
 event_url: https://example.org
 
-location: Wowchemy HQ
+location: ENS de Lyon
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 15 parvis Descartes
+  city: Lyon
+  region:
+  postcode: '69007'
+  country: France
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Workshop on Advanced Methods for Data Collection and Use.
+abstract: 'The workshop will bring together about eight speakers who contribute to pushing the research frontier in data collection and use with advanced methods. There will be one session on tabular data (including OCR/HTR and table recognition), and one session on spatial data (including remote sensing and map recognition).'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2023-09-014T12:00:00Z'
+date_end: '2030-09-015T14:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
