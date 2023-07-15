@@ -2,7 +2,7 @@
 avatar_filename: avatar.jpg
 bio: My research interests include distributed political economy, growth and
   economic history.
-fields:
+interests:
   - Political Economy
   - Growth, population economics and macro-development
   - Economic History
