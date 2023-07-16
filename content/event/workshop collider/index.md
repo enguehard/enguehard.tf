@@ -58,4 +58,4 @@ image:
 #   Otherwise, set `projects = []`.
 #projects:
 #  - example
-#---
+---
