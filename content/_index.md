@@ -153,7 +153,7 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
+      text: 
          Email is the best way to reach me.
       # Contact (add or remove contact options as necessary)
       email: "name"."surname"@ens-lyon.fr
