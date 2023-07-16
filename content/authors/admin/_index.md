@@ -27,7 +27,7 @@ organizations:
     url: http://economie.ens-lyon.fr/en/
 education:
   courses:
-    - course: [ENS Graduate Degree](https://www.ens.psl.eu/en/academics/academic-programs/ens-graduate-degree?lang=en)
+    - course: ENS [Graduate Degree](https://www.ens.psl.eu/en/academics/academic-programs/ens-graduate-degree?lang=en)
       institution: École normale supérieure - PSL
       year: 2021
     - course: MRes [Analysis and Policy in Economics](https://www.parisschoolofeconomics.eu/en/teaching/masters-program/ape-analysis-policy-in-economics/)
