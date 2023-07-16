@@ -1,7 +1,7 @@
 ---
 title: Advanced Methods Workshop
 
-event: Advanced Methods Workshop
+event: ENSL Advanced Methods Workshop
 event_url: https://example.org
 
 location: ENS de Lyon, D8.006
