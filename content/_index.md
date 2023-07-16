@@ -11,6 +11,10 @@ sections:
       title: Website in progress!
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+  - block: news
+    content:
+      title: News
+    
   - block: experience
     content:
       title: Experience
@@ -124,7 +128,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Events
       filters:
         folders:
           - event

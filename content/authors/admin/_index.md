@@ -46,7 +46,9 @@ title: Joseph Enguehard
 first_name: Joseph
 email: "joseph.enguehard@ens-lyon.fr"
 ---
-I am a PhD candidate in Economics at the Center for Economic Reserch on Governance, Inequality and Conflict ([CERGIC](http://economie.ens-lyon.fr/en/research/cergic)) within the [École normale supérieure de Lyon](https://www.ens-lyon.fr/en/). My research interests revolve around various issues related to long-run economic and institutional development paths, including the political economy of taxation, military recruitment and resistance to the expansion of the state, the interaction between demographic transition and structural change, and historical living standards. My work combines applied theory and empirical analysis, in settings such as colonial India and early-modern France.
+I am a PhD candidate in Economics at the Center for Economic Reserch on Governance, Inequality and Conflict ([CERGIC](http://economie.ens-lyon.fr/en/research/cergic)) within the [École normale supérieure de Lyon](https://www.ens-lyon.fr/en/). My research spans political economy, (macro) development and economic history.
+
+I am interested in various issues related to long-run economic and institutional development, including the political economy of taxation, military recruitment and resistance to the expansion of the state, the interaction between demographic transition and structural change, and historical living standards. My work combines applied theory and empirical analysis, in settings such as colonial India and early-modern France.
 
 While being a scholar at [École normale supérieure](https://www.ens.psl.eu/en), I completed a Master's degree in economics at [Paris School of Economics](https://www.parisschoolofeconomics.eu/?lang=en). Before that, I followed a liberal arts path, including a Bachelor degree in philosophy at the [Sorbonne](https://www.pantheonsorbonne.fr/en). Since starting my PhD, I have made short visits to the [Scuola Sant'Anna](https://www.santannapisa.it/en) in Pisa, the [Harris School](https://harris.uchicago.edu/) in Chicago and the [University of Oxford](https://www.ox.ac.uk/).
 
