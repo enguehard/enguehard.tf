@@ -156,7 +156,7 @@ sections:
       text: |-
          Email is the best way to reach me.
       # Contact (add or remove contact options as necessary)
-      email: name.surname@ens-lyon.fr
+      email: '[name].[surname]@ens-lyon.fr'
       #phone: 888 888 88 88
       #appointment_url: 'https://calendly.com'
       address:
