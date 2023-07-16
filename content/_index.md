@@ -38,7 +38,7 @@ sections:
         - title: Lecteur
           company: Lady Margaret Hall, University of Oxford
           company_url: ''
-          company_logo: org-x
+          company_logo: org-gc
           location: United Kingdom
           date_start: '2020-10-01'
           date_end: '2021-06-30'
