@@ -50,8 +50,9 @@ I am a PhD candidate in Economics at the Center for Economic Reserch on Governan
 
 While being a scholar at [École normale supérieure](https://www.ens.psl.eu/en), I completed a Master's degree in economics at [Paris School of Economics](https://www.parisschoolofeconomics.eu/?lang=en). Before that, I followed a liberal arts path, including a Bachelor degree in philosophy at the [Sorbonne](https://www.pantheonsorbonne.fr/en).
 
-My surname originates from Normandy, and is related to a patronymic found throughout the Germanic language area (with variants such as Engelhardt or Inglehart). In French, it is pronounced /ɑ̃gø.aʁ/.
+My surname originates from Normandy, and is related to a patronymic found throughout the Germanic language area (with variants such as Engelhardt or Inglehart). In French, it is pronounced [/ɑ̃gø.aʁ/](https://staff.fnwi.uva.nl/e.j.m.enguehard/).
+#/ʒozɛf ɑ̃gø.aʁ/
 
-".tf is the Internet country code top-level domain (ccTLD) for the French Southern and Antarctic Lands" -- with which I have no specific connection, but which happened to be available.
+.tf is the Internet domain for the [French Southern and Antarctic Lands](https://en.wikipedia.org/wiki/French_Southern_and_Antarctic_Lands), which happened to be available.
 
 {style="text-align: justify;"}
