@@ -175,10 +175,6 @@ sections:
           icon_pack: fab
           name: Twitter
           link: 'https://twitter.com/EnguehardJoseph'
-      	- icon: github
-          icon_pack: fab
-          name: Github
-          link: 'https://econtwitter.net/@enguehard'
   
       # Automatically link email and phone or display as text?
       autolink: true
