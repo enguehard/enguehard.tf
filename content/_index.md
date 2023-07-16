@@ -154,27 +154,31 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+         Email is the best way to reach me.
       # Contact (add or remove contact options as necessary)
-      email: joseph.enguehard@ens-lyon.fr
+      email: [name].[surname]@ens-lyon.fr
       #phone: 888 888 88 88
       #appointment_url: 'https://calendly.com'
       address:
-        street: 15 parvis Descartes
-        city: Lyon
-        region:
-        postcode: '69007'
+        street: ENS, 15 parvis Descartes
+        city: 69007 Lyon
+        region: France
+        postcode:
         country: France
         country_code: FRA
-      directions: Office D4.04
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+      directions: Office D4.004
+      #office_hours:
+        #- 'Monday 10:00 to 13:00'
+        #- 'Wednesday 09:00 to 10:00'
       contact_links:
         - icon: twitter
           icon_pack: fab
-          name: DM Me
+          name: Twitter
           link: 'https://twitter.com/EnguehardJoseph'
+	- icon: mastodon
+          icon_pack: fab
+          name: Mastodon
+          link: 'https://econtwitter.net/@enguehard'
   
       # Automatically link email and phone or display as text?
       autolink: true
