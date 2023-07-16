@@ -26,7 +26,7 @@ sections:
         - title: PhD Candidate
           company: ENS de Lyon
           company_url: ''
-          company_logo: logo-ENSL
+          company_logo: logo-ensl
           location: France
           date_start: '2021-09-01'
           date_end: ''
@@ -38,7 +38,7 @@ sections:
         - title: Lecteur
           company: Lady Margaret Hall, University of Oxford
           company_url: ''
-          company_logo: org-gc
+          company_logo: logo-lmh
           location: United Kingdom
           date_start: '2020-10-01'
           date_end: '2021-06-30'
@@ -46,7 +46,7 @@ sections:
         - title: Macroeconomic Research Assistant
           company: Chair Energy & Prosperity 
           company_url: ''
-          company_logo: org-x
+          company_logo: logo-afd
           location: France
           date_start: '2018-09-01'
           date_end: '2019-02-28'
@@ -54,7 +54,7 @@ sections:
         - title: Mathematics Instructor
           company: Lycée Lakanal 
           company_url: ''
-          company_logo: org-x
+          company_logo: logo-llk
           location: France
           date_start: '2016-09-01'
           date_end: '2019-02-28'
