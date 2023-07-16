@@ -124,7 +124,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Events
+      title: News
       filters:
         folders:
           - event
