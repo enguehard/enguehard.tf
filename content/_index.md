@@ -156,7 +156,7 @@ sections:
       text: |-
          Email is the best way to reach me.
       # Contact (add or remove contact options as necessary)
-      email: [name].[surname]@ens-lyon.fr
+      email: "name"."surname"@ens-lyon.fr
       #phone: 888 888 88 88
       #appointment_url: 'https://calendly.com'
       address:
@@ -175,7 +175,7 @@ sections:
           icon_pack: fab
           name: Twitter
           link: 'https://twitter.com/EnguehardJoseph'
-      	- icon: mastodon
+      	- icon: twitter
           icon_pack: fab
           name: Mastodon
           link: 'https://econtwitter.net/@enguehard'
