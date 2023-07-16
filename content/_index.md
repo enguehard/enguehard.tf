@@ -175,7 +175,7 @@ sections:
           icon_pack: fab
           name: Twitter
           link: 'https://twitter.com/EnguehardJoseph'
-	- icon: mastodon
+      	- icon: mastodon
           icon_pack: fab
           name: Mastodon
           link: 'https://econtwitter.net/@enguehard'
