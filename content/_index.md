@@ -41,37 +41,25 @@ sections:
           company_logo: org-x
           location: United Kingdom
           date_start: '2020-10-01'
-          date_end: '2020-06-30'
+          date_end: '2021-06-30'
           description: Taught French conversation and essay (1st- to 4th-year).
+        - title: Macroeconomic Research Assistant
+          company: Chair Energy & Prosperity 
+          company_url: ''
+          company_logo: org-x
+          location: France
+          date_start: '2018-09-01'
+          date_end: '2019-02-28'
+          description: Based at the French Development Agency (AFD), I worked on coupling the macroeconomic model GEMMES with the climate model Loveclim.
+        - title: Mathematics Instructor
+          company: Lycée Lakanal 
+          company_url: ''
+          company_logo: org-x
+          location: France
+          date_start: '2016-09-01'
+          date_end: '2019-02-28'
+          description: Math oral exam training for second-year liberal arts undergraduate students.                      
     design:
-      columns: '2'
-
-  - block: collection
-    id: posts
-    content:
-      title: Recent Posts
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: compact
       columns: '2'
   - block: portfolio
     id: research
@@ -143,11 +131,6 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
   - block: contact
     id: contact
     content:
@@ -156,7 +139,7 @@ sections:
       text: |-
          Email is the best way to reach me.
       # Contact (add or remove contact options as necessary)
-      email: '[name].[surname]@ens-lyon.fr'
+      email: joseph.enguehard@ens-lyon.fr
       #phone: 888 888 88 88
       #appointment_url: 'https://calendly.com'
       address:
