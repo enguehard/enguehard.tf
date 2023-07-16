@@ -33,8 +33,8 @@ sections:
           description: |2-
               Teaching duties include:
 
-              * TA: Mathematics for Economists (ENS Lyon, 3rd-year)
-              * Introduction to Micro- and Macroeconomics for graduate business students (EM Lyon)
+              * TA: Mathematics for Economists (3rd-year students at ENS Lyon)
+              * Main instructor: Fundamentals of Micro- and Macroeconomics (graduate business students from EM Lyon)
         - title: Lecteur
           company: Lady Margaret Hall, University of Oxford
           company_url: ''
