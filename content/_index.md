@@ -26,7 +26,7 @@ sections:
         - title: PhD Candidate
           company: ENS de Lyon
           company_url: ''
-          company_logo: logo-ENSL.pdf
+          company_logo: logo-ENSL
           location: France
           date_start: '2021-09-01'
           date_end: ''
