@@ -175,9 +175,9 @@ sections:
           icon_pack: fab
           name: Twitter
           link: 'https://twitter.com/EnguehardJoseph'
-      	- icon: twitter
+      	- icon: github
           icon_pack: fab
-          name: Mastodon
+          name: 'Mastodon'
           link: 'https://econtwitter.net/@enguehard'
   
       # Automatically link email and phone or display as text?
