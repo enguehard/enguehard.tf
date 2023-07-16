@@ -27,10 +27,10 @@ organizations:
     url: http://economie.ens-lyon.fr/en/
 education:
   courses:
-    - course: ENS Graduate Degree
+    - course: [ENS Graduate Degree](https://www.ens.psl.eu/en/academics/academic-programs/ens-graduate-degree?lang=en)
       institution: École normale supérieure - PSL
       year: 2021
-    - course: MRes Analysis and Policy in Economics
+    - course: MRes [Analysis and Policy in Economics](https://www.parisschoolofeconomics.eu/en/teaching/masters-program/ape-analysis-policy-in-economics/)
       institution: Paris School of Economics
       year: 2020
     - course: BA in Philosophy
@@ -51,8 +51,8 @@ I am a PhD candidate in Economics at the Center for Economic Reserch on Governan
 While being a scholar at [École normale supérieure](https://www.ens.psl.eu/en), I completed a Master's degree in economics at [Paris School of Economics](https://www.parisschoolofeconomics.eu/?lang=en). Before that, I followed a liberal arts path, including a Bachelor degree in philosophy at the [Sorbonne](https://www.pantheonsorbonne.fr/en).
 
 My surname originates from Normandy, and is related to a patronymic found throughout the Germanic language area (with variants such as Engelhardt or Inglehart). In French, it is pronounced [/ɑ̃gø.aʁ/](https://staff.fnwi.uva.nl/e.j.m.enguehard/).
-#/ʒozɛf ɑ̃gø.aʁ/
 
-.tf is the Internet domain for the [French Southern and Antarctic Lands](https://en.wikipedia.org/wiki/French_Southern_and_Antarctic_Lands), which happened to be available.
+
+[.tf](https://en.wikipedia.org/wiki/.tf) is the Internet domain for the French Southern and Antarctic Lands, which happened to be available.
 
 {style="text-align: justify;"}
