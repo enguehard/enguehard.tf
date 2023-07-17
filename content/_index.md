@@ -21,6 +21,10 @@ sections:
     design:
       columns: '2'
       view: compact
+  - block: about.biography
+    id: bio
+    content:
+      title: Bio      
   - block: experience
     content:
       title: Experience
