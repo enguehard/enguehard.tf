@@ -20,11 +20,7 @@ sections:
           - event
     design:
       columns: '2'
-      view: compact
-  - block: about.biography
-    id: bio
-    content:
-      title: Bio      
+      view: compact 
   - block: experience
     content:
       title: Experience
