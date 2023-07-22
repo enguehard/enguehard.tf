@@ -33,9 +33,9 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: PhD Candidate
+        - title: PhD Candidate (French Government Contract)
           company: ENS de Lyon
-          company_url: ''
+          company_url: 'https://www.ens-lyon.fr/'
           company_logo: logo-ensl
           location: France
           date_start: '2021-09-01'
@@ -47,7 +47,7 @@ sections:
               * Main instructor: Fundamentals of Micro- and Macroeconomics (graduate business students from EM Lyon)
         - title: Lecteur
           company: Lady Margaret Hall, University of Oxford
-          company_url: ''
+          company_url: 'https://www.lmh.ox.ac.uk/'
           company_logo: logo-lmh
           location: United Kingdom
           date_start: '2020-10-01'
@@ -55,7 +55,7 @@ sections:
           description: Taught French conversation and essay (1st- to 4th-year).
         - title: Macroeconomic Research Assistant
           company: Chair Energy & Prosperity 
-          company_url: ''
+          company_url: 'http://www.chair-energy-prosperity.org/en/'
           company_logo: logo-afd
           location: France
           date_start: '2018-09-01'
