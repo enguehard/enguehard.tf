@@ -18,6 +18,8 @@ sections:
       filters:
         folders:
           - event
+      text: |-
+      My next conference presentation will be at EHES in Vienna.
     design:
       columns: '2'
       view: compact

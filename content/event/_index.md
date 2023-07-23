@@ -1,7 +1,6 @@
 ---
 title: News
 cms_exclude: true
-content: 'Next conference: EHES, Vienna, September 2023.'
 
 # View.
 #   1 = List
