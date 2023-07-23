@@ -19,7 +19,7 @@ sections:
         folders:
           - event
       text: |-
-        My next conference presentation will be at EHES in Vienna.
+        My next conference presentation will be at EHES in Vienna. \n \n
     design:
       columns: '2'
       view: compact
