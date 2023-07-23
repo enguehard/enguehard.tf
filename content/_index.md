@@ -88,8 +88,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: State Capacity
+          tag: State Capacity
         - name: Other
           tag: Demo
     design:
@@ -100,10 +100,10 @@ sections:
       flip_alt_rows: false
   - block: markdown
     content:
-      title: Gallery
+      title: Bio
       subtitle: ''
       text: |-
-        {{< gallery album="demo" >}}
+        My bio
     design:
       columns: '1'
   - block: collection
