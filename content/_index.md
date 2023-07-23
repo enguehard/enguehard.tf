@@ -19,9 +19,12 @@ sections:
         folders:
           - event
       text: |-
-        - I will present at EHES in Vienna. \n 
-        - I presented at the Cliometric Society World Meeting in Dublin.  \n
-        -   \n  \n
+        - 9/23: I will present at EHES meeting in Vienna. 
+        - 7/23: I will present at the Cliometric Society World Meeting in Dublin.
+        
+        __
+        
+      
     design:
       columns: '2'
       view: compact
