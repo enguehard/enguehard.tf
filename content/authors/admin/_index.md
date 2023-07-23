@@ -49,11 +49,4 @@ I am a PhD candidate in Economics at the Center for Economic Reserch on Governan
 
 I am interested in various issues related to long-run economic and institutional development, including the political economy of taxation, military recruitment and resistance to the expansion of the state, the interaction between demographic transition and structural change, and historical living standards.
 
-While being a scholar at [École normale supérieure](https://www.ens.psl.eu/en), I completed a Master's degree in economics at [Paris School of Economics](https://www.parisschoolofeconomics.eu/?lang=en). Before that, I followed a liberal arts path, including a Bachelor degree in philosophy at the [Sorbonne](https://www.pantheonsorbonne.fr/en). Since starting my PhD, I have made short visits to the [Scuola Sant'Anna](https://www.santannapisa.it/en) in Pisa, the [Harris School](https://harris.uchicago.edu/) in Chicago and the [University of Oxford](https://www.ox.ac.uk/).
-
-My surname originates from Normandy, and is related to a patronymic found throughout the Germanic language area (with variants such as Engelhardt or Inglehart). In French, it is pronounced [/ɑ̃gø.aʁ/](https://staff.fnwi.uva.nl/e.j.m.enguehard/).
-
-
-[.tf](https://en.wikipedia.org/wiki/.tf) is the Internet domain for the French Southern and Antarctic Lands, which happened to be available.
-
 {style="text-align: justify;"}
