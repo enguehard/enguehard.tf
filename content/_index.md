@@ -32,6 +32,7 @@ sections:
         
         [.tf](https://en.wikipedia.org/wiki/.tf) is the Internet domain for the French Southern and Antarctic Lands, which happened to be available.
 
+        A native French speaker, the languages I practice apart from English are German and Italian. I've also tried to learn Farsi, Arabic and Latin, with varying degrees of success. 
     design:
       columns: '1'
   - block: experience
@@ -98,13 +99,13 @@ sections:
       # To show all items, set `tag` to "*".
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: State Capacity
-          tag: State Capacity
-        - name: Other
-          tag: Demo
+#      buttons:
+#        - name: All
+#          tag: '*'
+#        - name: State Capacity
+#          tag: State Capacity
+#        - name: Other
+#          tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
