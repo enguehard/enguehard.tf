@@ -19,7 +19,9 @@ sections:
         folders:
           - event
       text: |-
-        My next conference presentation will be at EHES in Vienna. \n \n
+        - I will present at EHES in Vienna. \n 
+        - I presented at the Cliometric Society World Meeting in Dublin.  \n
+        -   \n  \n
     design:
       columns: '2'
       view: compact
