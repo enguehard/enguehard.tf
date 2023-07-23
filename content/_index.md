@@ -19,8 +19,8 @@ sections:
         folders:
           - event
       text: |-
-        - 9/23: I will present at EHES meeting in Vienna. 
-        - 7/23: I will present at the Cliometric Society World Meeting in Dublin.
+        - I will present 'Endemic Violence...' at the EHES meeting in Vienna (9/23). 
+        - I will present 'Lewis and Malthus...' at the Cliometric Society World Meeting in Dublin (7/23).
         
         __
         
