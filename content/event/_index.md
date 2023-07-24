@@ -2,6 +2,8 @@
 title: News
 cms_exclude: true
 
+'Next conference: EHES, Vienna, September 2023.'
+
 # View.
 #   1 = List
 #   2 = Compact
