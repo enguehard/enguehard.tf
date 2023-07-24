@@ -94,7 +94,7 @@ sections:
         
         [.tf](https://en.wikipedia.org/wiki/.tf) is the Internet domain for the French Southern and Antarctic Lands, which happened to be available.
 
-        A native French speaker, the languages I practice apart from English are German and Italian. With varying degrees of success, I have also tried to learn Farsi, Arabic and Latin. 
+#A native French speaker, the languages I practice apart from English are German and Italian. With varying degrees of success, I have also tried to learn Farsi, Arabic and Latin. 
     design:
       columns: '1'
   - block: experience
