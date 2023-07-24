@@ -29,12 +29,10 @@ education:
     - course: ENS Graduate Degree
       institution: École normale supérieure - PSL
       year: 2021
-    - course: MRes Analysis and Policy in Economics
+    - course: Master's Degree in Economics (APE)
       institution: Paris School of Economics
       year: 2020
-    - course: BA in Philosophy
-      institution: Université Panthéon-Sorbonne
-      year: 2017
+
 superuser: true
 status:
   icon: ☕️
