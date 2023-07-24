@@ -21,6 +21,7 @@ sections:
       text: |-
         - I will present 'Endemic Violence...' at the EHES meeting in Vienna (9/23). 
         - I will present 'Lewis and Malthus...' at the Cliometric Society World Meeting in Dublin (7/23).
+        - I organize the following workshop (9/23): 
         
         __
         

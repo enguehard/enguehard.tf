@@ -12,7 +12,7 @@ address:
   postcode: '69007'
   country: France
 
-summary: Forthcoming Workshop on Advanced Methods for Data Collection and Use, of which I am the organizer. More to come!
+summary: Forthcoming Workshop on Advanced Methods for Data Collection and Use. More to come!
 abstract: 'The workshop will bring together about eight speakers who contribute to pushing the research frontier in data collection and use with advanced methods. There will be one session on tabular data (including OCR/HTR and table recognition), and one session on spatial data (including remote sensing and map recognition). I thank ENS de Lyon (junior lab grant) and CERGIC for their financial support.'
 
 # Talk start and end times.
