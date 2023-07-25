@@ -11,7 +11,7 @@ main:
     url: '#research'
     weight: 30
   - name: Bio
-    url: '#bio'
+    url: '#about-bio'
     weight: 20
   - name: Contact
     url: '#contact'
