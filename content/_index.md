@@ -5,14 +5,18 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: about.biography
+  - block: about
     id: about
     content:
       title: 
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-        text: |-
-        What's new?
+  - block: biography
+    id: biog
+    content:
+      title: 
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
   - block: collection
     id: talks
     content:
