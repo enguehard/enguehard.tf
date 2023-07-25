@@ -1,5 +1,5 @@
 ---
-bio: PhD Candidate in Economics
+bio:
 interests:
   - Political Economy
   - Growth and Macro Development
