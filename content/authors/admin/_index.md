@@ -48,12 +48,13 @@ More about [my research](#research)
 - **14-15 Sep 23**. I organize a [workshop on advanced data collection methods at ENS de Lyon](talk/advanced-methods-workshop/).
 
 - **1 Sep 23**. I will present 'Endemic Violence' at the EHES meeting in Vienna. 
-
 <details>
 <summary>Past news</summary>
 <br>
 - **22 Jul 23**. I presented 'Lewis and Malthus' at the Cliometric Society World Meeting in Dublin.
 - **28 Jun 23**. I presented 'Lewis and Malthus' at the LAGV in Marseille.
+- ** ** I presented 'Lewis and Malthus' at the Lewis Lab Graduate Workshop in Manchester.
+- 
 
 </details>
 
