@@ -17,7 +17,7 @@ superuser: true
 status:
   icon: ☕️
 highlight_name: true
-title:
+title: About me
 
 
 ---
@@ -27,7 +27,7 @@ My surname is pronounced [/ɑ̃gø.aʁ/](https://staff.fnwi.uva.nl/e.j.m.engueha
         
 [.tf](https://en.wikipedia.org/wiki/.tf) is the Internet domain for the French Southern and Antarctic Lands, which happened to be available.
 
-More about my [experience](#experience) 
+More about [my experience](#experience) 
 
 __
 
