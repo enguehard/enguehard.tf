@@ -48,9 +48,8 @@ I am interested in various issues related to long-run economic and institutional
 
 - 22 Jul. 23: I will present 'Lewis and Malthus' at the Cliometric Society World Meeting in Dublin.
 
-[About]({{< ref "/about" >}} "About Us")
-[About]({{< relref "/about" >}} "About Us")
-[About]({{< relref "/#research" >}} "About Us")
+
+[About]({{< ref "/#research" >}} "About Us")
 [About]({{< relref "/#research" >}} "About Us")
 
 {style="text-align: justify;"}
