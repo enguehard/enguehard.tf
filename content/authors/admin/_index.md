@@ -37,14 +37,14 @@ I am a PhD candidate in Economics at the Center for Economic Reserch on Governan
 
 I am interested in various issues related to long-run economic and institutional development, including the political economy of taxation, military recruitment and resistance to the expansion of the state, the interaction between demographic transition and structural change, and historical living standards.
 
-[More about me]({{ relref . "bio" }}).
-[More about my research]({{ relref . "research" }}).
+[More about me]({{ relref . "#about-bio" }}).
+[More about my research]({{ relref . "#research" }}).
 
 **News:**
 
-- I will present 'Endemic Violence...' at the EHES meeting in Vienna (9/23). 
-- I will present 'Lewis and Malthus...' at the Cliometric Society World Meeting in Dublin (7/23).
-- I organize the following workshop (9/23).
-__
+- 9/23. I will present 'Endemic Violence...' at the EHES meeting in Vienna. 
+- 7/23. I will present 'Lewis and Malthus...' at the Cliometric Society World Meeting in Dublin.
+- 14/9/23. I organize a workshop on advanced data collection methods.
+
 
 {style="text-align: justify;"}
