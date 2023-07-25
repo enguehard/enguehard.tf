@@ -17,7 +17,7 @@ superuser: true
 status:
   icon: ☕️
 highlight_name: true
-title: About Me
+title:
 
 
 ---

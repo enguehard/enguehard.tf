@@ -14,7 +14,7 @@ sections:
   - block: about.biography
     id: about-bio
     content:
-      title: 
+      title: About me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin2
 #  - block: collection
@@ -120,7 +120,7 @@ sections:
           date_end: '2019-02-28'
           description: Math oral exam training for second-year liberal arts undergraduate students.                      
     design:
-      columns: '2'
+      columns: '1'
 
   - block: portfolio
     id: research
