@@ -1,10 +1,7 @@
 ---
 avatar_filename: avatar.jpg
 bio: PhD Candidate in Economics
-interests:
-  - Political Economy
-  - Growth and Macro Development
-  - Economic History
+
 social:
   - icon: envelope
     icon_pack: fas
@@ -24,14 +21,7 @@ social:
 organizations:
   - name: École normale supérieure de Lyon
     url: http://economie.ens-lyon.fr/en/
-education:
-  courses:
-    - course: ENS Graduate Degree
-      institution: École normale supérieure - PSL
-      year: 2021
-    - course: Master's Degree in Economics (APE)
-      institution: Paris School of Economics
-      year: 2020
+
 
 superuser: true
 status:
