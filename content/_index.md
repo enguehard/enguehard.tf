@@ -12,7 +12,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
         text: |-
-        [What's new?](#talks)
+        What's new?
   - block: collection
     id: talks
     content:
