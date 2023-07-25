@@ -146,7 +146,7 @@ sections:
   - block: markdown
     id: past
     content:
-      title: Past news
+      title: Some past events
       subtitle: ''
       text: |-
        [Back to recent news](#about)
