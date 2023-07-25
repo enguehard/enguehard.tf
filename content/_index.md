@@ -152,16 +152,20 @@ sections:
        [Back to recent news](#about)
 
         - **22 Jul 23**. I presented an earlier version of 'Lewis and Malthus' at the Cliometric Society World Meeting.
+        - **3-7 Jul 23**. I attended the Advanced Economics Summer School in Spetses with Jeff Wooldridge.
         - **28 Jun 23**. I presented an earlier version of 'Lewis and Malthus' at the LAGV Public Economics Days in Marseille.
         - **5 Apr 23**. I presented an earlier version of 'Lewis and Malthus' at the ENSL-Bologna Junior Workshop.
         - **1 Apr 23**. I presented an earlier version of 'Lewis and Malthus' at the EHS Conference's poster session.        
         - **30 Mar 23**. I presented an earlier version of 'Lewis and Malthus' at the LORDE workshop (PSE).
         - **23 Mar 23**. I presented an earlier version of 'Lewis and Malthus' at the Lewis Lab Graduate Workshop in Manchester.
         - **8 Mar 23**. I presented an earlier version of 'Local Living Standards in Colonial South Asia' at the Graduate ESH Seminar in Oxford.
+        - **1-22 Mar 22**. I visited the EH research group in Oxford, invited by Steve Broadberry.
         - **28 Jan 23**. I presented an earlier version of 'Local Living Standards in Colonial South Asia' at the ADRES Conference.
         - **9 Dec 22**. I presented an earlier version of 'Local Living Standards in Colonial South Asia' at the AHEC Conference.
-        - **16 Sep 22**. I presented an earlier version of 'Illegal Economy and Ideology' at the EHA Meeting's poster session .
+        - **16 Sep 22**. I presented an earlier version of 'Illegal Economy and Ideology' at the EHA Meeting's poster session.
+        - **7-15 Sep 22**. I visited the Harris School at the University of Chicago, invited by Scott Gehlbach.
         - **29 Jul 22**. I presented an earlier version of 'Local Living Standards in Colonial South Asia' at the WEHC.
+        - **April-May 22**. I visited the Scuola Sant'Anna of Advanced Studies in Pisa, invited by Alessandro Nuvolari.
 
 
     design:
