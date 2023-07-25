@@ -151,17 +151,17 @@ sections:
       text: |-
        [Back to recent news](#about)
 
-        - **22 Jul 23**. I presented 'Lewis and Malthus' at the Cliometric Society World Meeting.
-        - **28 Jun 23**. I presented 'Lewis and Malthus' at the LAGV Public Economics Days in Marseille.
-        - **22 Jul 23**. I presented 'Lewis and Malthus' at the EHS Conference's poster session.
-        
-        - **22 Jul 23**. I presented 'Lewis and Malthus' at the LORDE workshop at PSE.
-        - **22 Jul 23**. I presented 'Lewis and Malthus' at the Lewis Lab Graduate Workshop in Manchester.
-        - **22 Jul 23**. I presented 'Local Living Standards in Colonial South Asia' at the Graduate ESH Seminar in Oxford.
-        - **2 Jul 23**. I presented 'Local Living Standards in Colonial South Asia' at the AHEC Conference.
-        - **9 Dec 22**. I presented 'Local Living Standards in Colonial South Asia' at the AHEC Conference in Bangkok.
-        - **2 Sep 22**. I presented 'Local Living Standards in Colonial South Asia' at the EHA Meeting's poster session .
-        - **29 Jul 22**. I presented 'Local Living Standards in Colonial South Asia' at the WEHC.
+        - **22 Jul 23**. I presented an earlier version of 'Lewis and Malthus' at the Cliometric Society World Meeting.
+        - **28 Jun 23**. I presented an earlier version of 'Lewis and Malthus' at the LAGV Public Economics Days in Marseille.
+        - **5 Apr 23**. I presented an earlier version of 'Lewis and Malthus' at the ENSL-Bologna Junior Workshop.
+        - **1 Apr 23**. I presented an earlier version of 'Lewis and Malthus' at the EHS Conference's poster session.        
+        - **30 Mar 23**. I presented an earlier version of 'Lewis and Malthus' at the LORDE workshop (PSE).
+        - **23 Mar 23**. I presented an earlier version of 'Lewis and Malthus' at the Lewis Lab Graduate Workshop in Manchester.
+        - **8 Mar 23**. I presented an earlier version of 'Local Living Standards in Colonial South Asia' at the Graduate ESH Seminar in Oxford.
+        - **28 Jan 23**. I presented an earlier version of 'Local Living Standards in Colonial South Asia' at the ADRES Conference.
+        - **9 Dec 22**. I presented an earlier version of 'Local Living Standards in Colonial South Asia' at the AHEC Conference.
+        - **16 Sep 22**. I presented an earlier version of 'Illegal Economy and Ideology' at the EHA Meeting's poster session .
+        - **29 Jul 22**. I presented an earlier version of 'Local Living Standards in Colonial South Asia' at the WEHC.
 
 
     design:
