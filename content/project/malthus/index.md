@@ -1,9 +1,10 @@
 ---
 title: 'The Race between Lewis and Malthus'
 summary: 'In absolute terms, Indian industrialization is a phenomenon of global significance, especially after a century of deindustrialization in the EIC era. At the same time, there was no structural change in unemployment in India until the 1970s. This paper proposes a theoretical framework that solves this puzzle: the race between the Lewisian absorption of rural labor by a rising industrial sector and its Malthusian regeneration.'
-tags:
-  - South Asia
+tags:  
   - Growth
+  - Theory
+  - South Asia
 date: '2016-04-27T00:00:00Z'
 authors: [admin]
 

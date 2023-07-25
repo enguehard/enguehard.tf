@@ -2,8 +2,10 @@
 title: 'Local Living Standards in South Asia (1870-1930)'
 summary: 'This paper studies the Malthusian constraint on local living standards in colonial South Asia, based on a novel district-level dataset of subsistence ratios.'
 tags:
+  - Econ. History
+  - Empirical
   - South Asia
-  - Historical Living Standards
+
 date: '2016-04-27T00:00:00Z'
 
 authors: [admin]
