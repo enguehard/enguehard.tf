@@ -49,7 +49,7 @@ More about [my research](#research)
 
 - **1 Sep 23**. I will present 'Endemic Violence' at the EHES meeting in Vienna. 
 
-- **22 Jul 23**. I will present 'Lewis and Malthus' at the Cliometric Society World Meeting in Dublin.
+- [Past news](#past)
 
 
 

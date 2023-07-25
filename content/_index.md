@@ -59,15 +59,7 @@ sections:
 #    design:
 #      columns: '2'
 #      view: citation
-#  - block: markdown
-#    id: text
-#    content:
-#      title: text
-#      subtitle: ''
-#      text: |-
-#        text
-    design:
-      columns: '1'
+
 
 
   - block: experience
@@ -150,6 +142,17 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
 
+
+  - block: markdown
+    id: past
+    content:
+      title: Past news
+      subtitle: ''
+      text: |-
+        - **22 Jul 23**. I presented 'Lewis and Malthus' at the Cliometric Society World Meeting in Dublin.
+
+    design:
+      columns: '1'
 
   - block: contact
     id: contact
