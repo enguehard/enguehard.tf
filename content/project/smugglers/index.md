@@ -1,9 +1,9 @@
 ---
 title: Illegal Economy and Ideology 
-summary: Does participation in the illegal economy lead to specific political and cultural preferences? In the context of eighteenth-century France, this project examines the impact of pre-revolutionary smuggling on attitudes towards the Revolution. <details> <summary>How do I dropdown?</summary> <br> This is how you dropdown. </details>
+summary: Does participation in the illegal economy lead to specific political and cultural preferences? In the context of eighteenth-century France, this project examines the impact of pre-revolutionary smuggling on attitudes towards the Revolution.
 
 tags:
-  - Political Economoy
+  - Political Economy
   - State Capacity
   - Empirical
 date: '2016-04-27T00:00:00Z'
@@ -18,10 +18,9 @@ image:
 
 links:
 url_code: ''
-url_pdf: ''
+url_pdf: 'enguehard.tf'
 url_slides: ''
 url_video: ''
-url_abstract: 'www.enguehard.tf'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
