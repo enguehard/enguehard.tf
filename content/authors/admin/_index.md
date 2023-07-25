@@ -42,9 +42,11 @@ I am interested in various issues related to long-run economic and institutional
 
 **News:**
 
-- 9/23. I will present 'Endemic Violence...' at the EHES meeting in Vienna. 
-- 7/23. I will present 'Lewis and Malthus...' at the Cliometric Society World Meeting in Dublin.
-- 14/9/23. I organize a workshop on advanced data collection methods.
+- 14-15 Sep. 23: I organize a [workshop on advanced data collection methods at ENS de Lyon](https://www.enguehard.tf/talk/advanced-methods-workshop/).
+
+- 1 Sep. 23: I will present 'Endemic Violence' at the EHES meeting in Vienna. 
+
+- 22 Jul. 23: I will present 'Lewis and Malthus' at the Cliometric Society World Meeting in Dublin.
 
 
 {style="text-align: justify;"}

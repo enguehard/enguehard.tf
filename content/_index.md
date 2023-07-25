@@ -17,24 +17,22 @@ sections:
       title: 
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin2
-  - block: collection
-    id: talks
-    content:
-      title: News
-      filters:
-        folders:
-          - event
-      text: |-
-        - I will present 'Endemic Violence...' at the EHES meeting in Vienna (9/23). 
-        - I will present 'Lewis and Malthus...' at the Cliometric Society World Meeting in Dublin (7/23).
-        - I organize the following workshop (9/23): 
-        
-        __
-        
-      
-    design:
-      columns: '1'
-      view: compact
+#  - block: collection
+#    id: talks
+#    content:
+#      title: News
+#      filters:
+#        folders:
+#          - event
+#      text: |-
+#        - I will present 'Endemic Violence...' at the EHES meeting in Vienna (9/23). 
+#        - I will present 'Lewis and Malthus...' at the Cliometric Society World Meeting in Dublin (7/23).
+#        - I organize the following workshop (9/23): 
+#        
+#        __      
+#    design:
+#      columns: '1'
+#      view: compact
   - block: portfolio
     id: research
     content:
