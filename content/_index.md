@@ -132,11 +132,11 @@ sections:
         - name: All
           tag: '*'
         - name: Political Econ.
-          tag: Political Econ.
+          tag: Political Econ
         - name: Growth
           tag: Growth
         - name: Econ. History
-          tag: Econ. History
+          tag: Econ History
         - name: Empirical
           tag: Empirical   
         - name: Theory
