@@ -6,6 +6,9 @@ tags:
   - Historical Living Standards
 date: '2016-04-27T00:00:00Z'
 
+authors: [admin]
+
+
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
