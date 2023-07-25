@@ -51,11 +51,9 @@ More about [my research](#research)
 <details>
 <summary>Past news</summary>
 <br>
-- **22 Jul 23**. I presented 'Lewis and Malthus' at the Cliometric Society World Meeting in Dublin.
-- **28 Jun 23**. I presented 'Lewis and Malthus' at the LAGV in Marseille.
-- ** ** I presented 'Lewis and Malthus' at the Lewis Lab Graduate Workshop in Manchester.
-- 
-
+**22 Jul 23**. I presented 'Lewis and Malthus' at the Cliometric Society World Meeting in Dublin.
++ **28 Jun 23**. I presented 'Lewis and Malthus' at the LAGV in Marseille.
++ **9 Mar 23 ** I presented 'Lewis and Malthus' at the Lewis Lab Graduate Workshop in Manchester.
 </details>
 
 
