@@ -66,12 +66,12 @@ sections:
 #      subtitle: ''
 #      text: |-
 #        text
-
-
     design:
       columns: '1'
+
+
   - block: experience
-    ide: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
