@@ -110,7 +110,7 @@ sections:
           location: France
           date_start: '2018-09-01'
           date_end: '2019-02-28'
-          description: Based at the French Development Agency (AFD), I worked on coupling the macroeconomic model GEMMES with the climate model Loveclim.
+          description: Based at the French Development Agency (AFD), I worked on coupling the world macroeconomic model GEMMES with the climate model LOVECLIM in order to assess the regional impact of climate change.
         - title: Mathematics Instructor
           company: Lycée Lakanal 
           company_url: ''
