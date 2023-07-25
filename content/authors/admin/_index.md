@@ -38,6 +38,11 @@ I am a PhD candidate in Economics at the Center for Economic Reserch on Governan
 I am interested in various issues related to long-run economic and institutional development, including the political economy of taxation, military recruitment and resistance to the expansion of the state, the interaction between demographic transition and structural change, and historical living standards.
 
 
+More [about me](#about-bio)
+
+More about [my research](#research)
+
+
 **News:**
 
 - 14-15 Sep. 23: I organize a [workshop on advanced data collection methods at ENS de Lyon](talk/advanced-methods-workshop/).
@@ -48,9 +53,6 @@ I am interested in various issues related to long-run economic and institutional
 
 
 
-More [about me](#about-bio)
-
-More about [my research](#research)
 
 
 
