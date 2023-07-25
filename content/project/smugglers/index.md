@@ -18,8 +18,14 @@ image:
 
 links:
 url_code: ''
-url_pdf: 'enguehard.tf'
+url_pdf: ''
 url_slides: ''
+url_video: ''
+url_dataset: ''
+url_poster: ''
+url_project: 'project/smugglers/'
+url_slides: ''
+url_source: ''
 url_video: ''
 
 # Slides (optional).
