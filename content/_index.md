@@ -11,6 +11,12 @@ sections:
       title: 
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+  - block: about.biography
+    id: about-bio
+    content:
+      title: 
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin2
   - block: collection
     id: talks
     content:
