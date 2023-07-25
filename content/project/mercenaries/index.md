@@ -2,7 +2,7 @@
 title: Endemic Violence, Civic Capital and the Fiscal-Military Revolution
 summary: On the one hand, a high level of military skill among the population is necessary to wage war; on the other hand, an armed and trained population has stronger bargaining power and is less willing to submit to the taxation demanded by the central government. This project establishes theoretical foundations for the trade-off faced by early modern states, and study its implications for the long-run state development process.
 tags:
-  - Political Econ
+  - Political Economy
   - Theory
   - State Capacity
 date: '2016-04-27T00:00:00Z'
