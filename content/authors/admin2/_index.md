@@ -1,5 +1,4 @@
 ---
-avatar_filename: avatar.jpg
 bio: PhD Candidate in Economics
 interests:
   - Political Economy
@@ -27,6 +26,8 @@ While being a civil servant scholar at [École normale supérieure](https://www.
 My surname is pronounced [/ɑ̃gø.aʁ/](https://staff.fnwi.uva.nl/e.j.m.enguehard/). It originates from Normandy, and is related to a patronymic found throughout the Germanic language area (with variants such as Engelhardt or Inglehart).
         
 [.tf](https://en.wikipedia.org/wiki/.tf) is the Internet domain for the French Southern and Antarctic Lands, which happened to be available.
+
+More about my past and previous positions. 
 
 __
 
