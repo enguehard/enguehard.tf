@@ -1,6 +1,6 @@
 ---
 avatar_filename: avatar.jpg
-bio: PhD Candidate in Economics
+bio:
 
 social:
   - icon: envelope
