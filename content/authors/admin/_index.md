@@ -49,14 +49,13 @@ More about [my research](#research)
 
 - **1 Sep 23**. I will present 'Endemic Violence' at the EHES meeting in Vienna. 
 
-- [Past news](#past)
-
-
-<details>
-<summary>How do I dropdown?</summary>
+- <details>
+<summary>Past news</summary>
 <br>
-This is how you dropdown.
+- **22 Jul 23**. I presented 'Lewis and Malthus' at the Cliometric Society World Meeting in Dublin.
 </details>
+
+
 
 
 
