@@ -149,6 +149,7 @@ sections:
       title: Past news
       subtitle: ''
       text: |-
+        - [Back to recent news](#about)
         - **22 Jul 23**. I presented 'Lewis and Malthus' at the Cliometric Society World Meeting in Dublin.
 
     design:
