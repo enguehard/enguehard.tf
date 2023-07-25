@@ -45,11 +45,11 @@ More about [my research](#research)
 
 **News:**
 
-- 14-15 Sep. 23: I organize a [workshop on advanced data collection methods at ENS de Lyon](talk/advanced-methods-workshop/).
+- **14-15 Sep. 23**. I organize a [workshop on advanced data collection methods at ENS de Lyon](talk/advanced-methods-workshop/).
 
-- 1 Sep. 23: I will present 'Endemic Violence' at the EHES meeting in Vienna. 
+- **1 Sep. 23**. I will present 'Endemic Violence' at the EHES meeting in Vienna. 
 
-- 22 Jul. 23: I will present 'Lewis and Malthus' at the Cliometric Society World Meeting in Dublin.
+- **22 Jul. 23**. I will present 'Lewis and Malthus' at the Cliometric Society World Meeting in Dublin.
 
 
 
