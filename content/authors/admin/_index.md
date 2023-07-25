@@ -48,7 +48,9 @@ I am interested in various issues related to long-run economic and institutional
 
 
 
-More [about me](#about-bio) and [my research](#research)
+More [about me](#about-bio)
+
+More about [my research](#research)
 
 
 
