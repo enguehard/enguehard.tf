@@ -55,10 +55,16 @@ sections:
   - block: markdown
     id:
     content:
+    design:
+      columns: '1'
+      spacing: {padding: [0, 0, 0, 0]}
+
+  - block: markdown
+    id:
+    content:
       title: 
       text: |-
        [Oldies](#about)
-
     design:
       columns: '1'
       spacing: {padding: [0, 0, 70px, 0]}
