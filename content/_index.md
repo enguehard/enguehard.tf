@@ -44,6 +44,8 @@ sections:
           tag: Empirical   
         - name: Theory
           tag: Theory
+        - name: Dormant
+          tag: dormant
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -66,7 +68,7 @@ sections:
     content:
       title: 
       text: |-
-       [Oldies](#about)
+       [Dormant](#dormant)
     design:
       columns: '1'
       spacing: {padding: [0, 0, 70px, 0]}
