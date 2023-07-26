@@ -20,7 +20,7 @@ links:
 url_code: ''
 url_pdf: 'http://piketty.pse.ens.fr/files/Enguehard2020.pdf'
 url_slides: 'project/master/slides.pdf'
-#url_video: 'content/project/master/slides.pdf'
+url_video: ''
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -30,4 +30,4 @@ url_slides: 'project/master/slides.pdf'
 slides: 
 ---
 
-(Unconclusive) Master's thesis.
+(Unconclusive) Master's thesis (2020).

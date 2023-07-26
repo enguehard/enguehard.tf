@@ -45,7 +45,7 @@ sections:
         - name: Theory
           tag: Theory
         - name: (dormant)
-          tag: dormant
+          tag: Dormant
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
