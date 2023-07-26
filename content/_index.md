@@ -124,7 +124,7 @@ sections:
           location: United Kingdom
           date_start: '2020-10-01'
           date_end: '2021-06-30'
-          description: Taught French conversation and essay (1st- to 4th-year).
+          description: Taught French conversation and essay (1st- to 4th-year) while visiting the University.
         - title: Macroeconomic Research Assistant
           company: Chair Energy & Prosperity 
           company_url: 'http://www.chair-energy-prosperity.org/en/'
