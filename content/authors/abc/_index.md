@@ -8,5 +8,6 @@ role:
 highlight_name: true
 title: Enguehard, J., Giraud, G., Levieil, E., Salin, M.
 first_name:
-email: 
+email:
+---
 {style="text-align: justify;"}
