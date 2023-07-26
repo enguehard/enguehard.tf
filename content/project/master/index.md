@@ -21,7 +21,7 @@ links:
 url_code: ''
 url_pdf: 'http://piketty.pse.ens.fr/files/Enguehard2020.pdf'
 url_slides: 'https://github.com/enguehard/enguehard.tf/blob/main/content/project/master/slides.pdf'
-url_video: ''
+url_video: 'content/project/master/slides.pdf'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
