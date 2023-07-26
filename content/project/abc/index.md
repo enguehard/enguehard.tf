@@ -6,7 +6,7 @@ tags:
 
 date: '2016-04-27T00:00:00Z'
 
-authors: [admin] [abc]
+authors: [abc]
 
 
 # Optional external URL for project (replaces project detail page).

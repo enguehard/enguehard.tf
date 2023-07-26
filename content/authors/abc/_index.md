@@ -7,7 +7,7 @@ social:
 superuser: true
 status:
   icon: ☕️
-last_name: G. Giraud, M. Salin, E. Levieil
+last_name: Enguehard, J., Giraud, G., Levieil, E., Salin, M.
 role:
 highlight_name: true
 title:
