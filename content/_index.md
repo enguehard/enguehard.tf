@@ -19,7 +19,6 @@ sections:
     content:
       title: Research
       subtitle: (Current PhD projects)
-      text: This is text
       filters:
         folders:
           - project
@@ -51,7 +50,18 @@ sections:
       view: list
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-      spacing: {padding: [80px, 0, 70px, 0]}
+      spacing: {padding: [80px, 0, 0, 0]}
+
+  - block: markdown
+    id:
+    content:
+      title: 
+      text: |-
+       [Oldies](#about)
+
+    design:
+      columns: '1'
+      spacing: {padding: [0, 0, 70px, 0]}
 
   - block: markdown
     id: past
