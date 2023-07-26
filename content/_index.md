@@ -12,7 +12,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
     design:
-      spacing: {padding: [1, 0, 60px, 0]}
+      spacing: {padding: [10, 0, 60px, 0]}
   - block: about.biography
     id: about-bio
     content:
