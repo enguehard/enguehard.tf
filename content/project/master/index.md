@@ -32,4 +32,4 @@ slides:
 
 (Unconclusive) Master's thesis, 2020.
 
-Updated Extract: [Unequal Growth in Old Regime France](project/master/unequal-growth.pdf), 2021.
+Updated Extract: [Unequal Growth in Old Regime France](unequal-growth.pdf), 2021.
