@@ -1,5 +1,5 @@
 ---
-title: 'The Measure of Disorder: Population, State-Building and Rebellion in Old Regime France, 1661-1789'
+title: ''
 summary: 'Master's thesis.'
 tags:
   - Dormant
