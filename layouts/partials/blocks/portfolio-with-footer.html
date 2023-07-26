@@ -1,4 +1,4 @@
-{{/* Wowchemy Blocks: Portfolio-with-footer */}}
+{{/* Wowchemy Blocks: Portfolio */}}
 {{/* Documentation: https://wowchemy.com/blocks/ */}}
 {{/* License: https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/LICENSE.md */}}
 
@@ -7,11 +7,14 @@
 {{ $block := .wcBlock }}
 {{ $columns := $block.design.columns | default "1" }}
 {{ $view := $block.design.view | default "masonry" }}
+{{ $text := $block.content.text | emojify | $page.RenderString }}
 
 {{/* Require Isotope */}}
 {{ $page.Page.Store.Set "has_isotope" true }}
 
 <div class="col-12 {{if eq $columns "2"}}col-lg-8{{end}}">
+
+  {{ with $block.content.text }}{{ . | $page.RenderString | emojify }}{{ end }}
 
   {{ if $block.content.buttons }}
 
@@ -100,6 +103,16 @@
         {{ partial "functions/render_view" (dict "page" $block "item" . "view" $view "index" $index) }}
       </div>
     {{end}}
-  {{ with $block.content.text }}{{ . | $page.RenderString | emojify }}{{ end }}
+
   </div>
 </div>
+
+{{ if ne $columns "1" }}
+  <div class="col-12 col-lg-8">
+    {{ $text }}
+  </div>
+{{ else }}
+  <div class="col-12">
+    {{ $text }}
+  </div>
+{{ end }}
