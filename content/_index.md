@@ -33,7 +33,7 @@ sections:
       # To remove the toolbar, delete the entire `filter_button` block.
       buttons:
         - name: All
-          tag: '*'
+          tag: Work in Progress
         - name: Political Economy
           tag: Political Economy
         - name: Growth

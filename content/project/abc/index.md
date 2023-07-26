@@ -1,5 +1,5 @@
 ---
-title: 'L'impôt abc'
+title: 'The ABC Tax'
 summary: ''
 tags:
   - Dormant
