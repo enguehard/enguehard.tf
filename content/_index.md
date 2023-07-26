@@ -12,7 +12,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
     design:
-      spacing: {padding: [10, 0, 60px, 0]}
+      spacing: {padding: [70px, 0, 30px, 0]}
   - block: about.biography
     id: about-bio
     content:
@@ -82,6 +82,8 @@ sections:
       filters:
         folders:
           - project
+      sort_by: 'Date'
+      sort_ascending: false
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       # Filter toolbar (optional).
