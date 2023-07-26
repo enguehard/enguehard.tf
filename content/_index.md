@@ -68,7 +68,7 @@ sections:
       text: |-
        [Oldies](#about)
     design:
-      columns: '1'
+      columns: '2'
       spacing: {padding: [0, 0, 70px, 0]}
 
   - block: markdown
