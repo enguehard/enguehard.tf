@@ -1,14 +1,12 @@
 ---
-title: 'Local Living Standards in South Asia (1870-1930)'
-summary: 'This paper studies the Malthusian constraint on local living standards in colonial South Asia, based on a novel district-level dataset of subsistence ratios.'
+title: 'L'impôt abc'
+summary: ''
 tags:
-  - Economic History
-  - Empirical
-  - South Asia
+  - Dormant
 
 date: '2016-04-27T00:00:00Z'
 
-authors: [admin]
+authors: [admin], G. Giraud, M. Salin, E. Levieil
 
 
 # Optional external URL for project (replaces project detail page).
@@ -20,8 +18,8 @@ image:
 
 links:
 url_code: ''
-url_pdf: ''
-url_slides: ''
+url_pdf: 'https://institut-rousseau.fr/wp-content/uploads/2021/02/superPPde_retour-1.pdf'
+url_slides: 'https://github.com/enguehard/enguehard.tf/blob/main/content/project/abc/slides.pdf'
 url_video: ''
 
 # Slides (optional).
