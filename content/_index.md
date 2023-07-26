@@ -88,7 +88,7 @@ sections:
         - **23 Mar 23**. I presented an earlier version of 'Lewis and Malthus' at the Lewis Lab Graduate Workshop in Manchester.
         - **8 Mar 23**. I presented an earlier version of 'Local Living Standards...' at the Graduate ESH Seminar in Oxford.
         - **16 Sep 22**. I presented an earlier version of 'Illegal Economy and Ideology' at the EHA Meeting's poster session.
-        - **29 Jul 22**. I presented an earlier version of 'Local Living Standards in Colonial South Asia' at the WEHC.
+        - **29 Jul 22**. I presented an earlier version of 'Local Living Standards in Colonial South Asia' at the WEHC. [Report](https://afhe.hypotheses.org/17726) (in French).
 
 #        - **3-7 Jul 23**. I attended the Spetses Advanced Economics Summer School on causal inference with Jeff Wooldridge.
 #        - **1 Apr 23**. I presented an earlier version of 'Lewis and Malthus' at the EHS Conference's poster session.        

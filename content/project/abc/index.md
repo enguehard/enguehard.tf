@@ -1,6 +1,6 @@
 ---
-title: 'The ABC Tax'
-summary: 'Dormant policy-related project about a smooth tax function (in French).'
+title: The ABC Tax
+summary: Dormant policy-related project about a smooth tax function (in French).
 tags:
   - Dormant
 
