@@ -14,7 +14,7 @@ sections:
     design:
       spacing: {padding: [90px, 0, 50px, 0]}
 
-  - block: portfolio-with-footer
+  - block: portfolio
     id: research
     content:
       title: Research
