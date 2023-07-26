@@ -142,15 +142,14 @@ sections:
           tag: Empirical   
         - name: Theory
           tag: Theory
-      text: |-
-        Oldies
-
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
       view: list
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+    text: |-
+       Oldies
     
 
 
