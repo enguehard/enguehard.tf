@@ -52,26 +52,7 @@ sections:
       view: list
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-      spacing: {padding: [80px, 0, 0, 0]}
-
-  - block: markdown
-    id:
-    content:
-      title: 
-      text:
-    design:
-      columns: '1'
-      spacing: {padding: [0, 0, 0, 0]}
-      
-  - block: markdown-right-aligned
-    id:
-    content:
-      title: 
-      text: |-
-       [Dormant](#dormant)
-    design:
-      columns: '1'
-      spacing: {padding: [0, 0, 70px, 0]}
+      spacing: {padding: [80px, 0, 70px, 0]}
 
   - block: markdown
     id: past

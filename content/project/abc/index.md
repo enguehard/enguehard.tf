@@ -19,7 +19,7 @@ image:
 links:
 url_code: ''
 url_pdf: 'https://institut-rousseau.fr/wp-content/uploads/2021/02/superPPde_retour-1.pdf'
-url_slides: 'https://github.com/enguehard/enguehard.tf/blob/main/content/project/abc/slides.pdf'
+url_slides: 'project/abc/slides.pdf'
 url_video: ''
 
 # Slides (optional).
