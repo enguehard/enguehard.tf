@@ -6,7 +6,7 @@ tags:
 
 date: '2016-04-27T00:00:00Z'
 
-authors: 'J. Enguehard, G. Giraud, M. Salin, E. Levieil'
+authors: [admin] [abc]
 
 
 # Optional external URL for project (replaces project detail page).
