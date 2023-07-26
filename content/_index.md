@@ -44,7 +44,7 @@ sections:
           tag: Empirical   
         - name: Theory
           tag: Theory
-        - name: Dormant
+        - name: (dormant)
           tag: dormant
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.

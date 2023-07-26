@@ -1,10 +1,10 @@
 ---
-title: The ABC Tax
+title: The ABC Tax (in French)
 summary: Dormant policy-related project about a smooth tax function (in French).
 tags:
   - Dormant
 
-date: '2016-04-27T00:00:00Z'
+date: '2020'
 
 authors: [abc]
 
