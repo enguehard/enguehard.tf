@@ -140,7 +140,7 @@ sections:
           location: France
           date_start: '2016-09-01'
           date_end: '2019-02-28'
-          description: Math oral exam training for second-year liberal arts undergraduate students.                      
+          description: Math oral exam training for second-year liberal arts undergraduate students.                       
     design:
       columns: '2'
       spacing: {padding: [80px, 0, 70px, 0]}
