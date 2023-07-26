@@ -61,14 +61,14 @@ sections:
       columns: '1'
       spacing: {padding: [0, 0, 0, 0]}
       
-  - block: markdown
+  - block: markdown-right-aligned
     id:
     content:
       title: 
       text: |-
        [Oldies](#about)
     design:
-      columns: '2'
+      columns: '1'
       spacing: {padding: [0, 0, 70px, 0]}
 
   - block: markdown
