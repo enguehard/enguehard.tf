@@ -1,12 +1,12 @@
 ---
 title: 'The ABC Tax'
-summary: ''
+summary: 'Dormant policy-related project about a smooth tax function (in French).'
 tags:
   - Dormant
 
 date: '2016-04-27T00:00:00Z'
 
-authors: [admin], G. Giraud, M. Salin, E. Levieil
+authors: 'J. Enguehard, G. Giraud, M. Salin, E. Levieil'
 
 
 # Optional external URL for project (replaces project detail page).
