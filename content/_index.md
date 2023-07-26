@@ -55,10 +55,12 @@ sections:
   - block: markdown
     id:
     content:
+      title: 
+      text:
     design:
       columns: '1'
       spacing: {padding: [0, 0, 0, 0]}
-
+      
   - block: markdown
     id:
     content:
