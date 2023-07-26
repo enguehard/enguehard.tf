@@ -3,9 +3,6 @@
 title:
 date: 2022-10-24
 type: landing
-[design.spacing]
-  # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["0", "0", "0", "0"]
 
 sections:
   - block: about.biography
@@ -14,6 +11,8 @@ sections:
       title: 
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+    design:
+      spacing: {padding: [0, 0, 0, 0]}
   - block: about.biography
     id: about-bio
     content:
