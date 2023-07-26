@@ -13,6 +13,46 @@ sections:
       username: admin
     design:
       spacing: {padding: [90px, 0, 50px, 0]}
+
+  - block: portfolio
+    id: research
+    content:
+      title: Research
+      subtitle: (Current PhD projects)
+      filters:
+        folders:
+          - project
+      sort_by: 'Date'
+      sort_ascending: false
+      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+      default_button_index: 0
+      # Filter toolbar (optional).
+      # Add or remove as many filters (`filter_button` instances) as you like.
+      # To show all items, set `tag` to "*".
+      # To filter by a specific tag, set `tag` to an existing tag name.
+      # To remove the toolbar, delete the entire `filter_button` block.
+      buttons:
+        - name: All
+          tag: '*'
+        - name: Political Economy
+          tag: Political Economy
+        - name: Growth
+          tag: Growth
+        - name: Economic History
+          tag: Economic History
+        - name: Empirical
+          tag: Empirical   
+        - name: Theory
+          tag: Theory
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+      view: list
+      # For Showcase view, flip alternate rows?
+      flip_alt_rows: false
+      spacing: {padding: [80px, 0, 70px, 0]}
+
+
   - block: about.biography
     id: about-bio
     content:
@@ -73,47 +113,6 @@ sections:
     design:
       columns: '2'
       spacing: {padding: [80px, 0, 70px, 0]}
-
-  - block: portfolio
-    id: research
-    content:
-      title: Research
-      subtitle: (Current PhD projects)
-      filters:
-        folders:
-          - project
-      sort_by: 'Date'
-      sort_ascending: false
-      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      default_button_index: 0
-      # Filter toolbar (optional).
-      # Add or remove as many filters (`filter_button` instances) as you like.
-      # To show all items, set `tag` to "*".
-      # To filter by a specific tag, set `tag` to an existing tag name.
-      # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Political Economy
-          tag: Political Economy
-        - name: Growth
-          tag: Growth
-        - name: Economic History
-          tag: Economic History
-        - name: Empirical
-          tag: Empirical   
-        - name: Theory
-          tag: Theory
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: list
-      # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
-      spacing: {padding: [80px, 0, 70px, 0]}
-    text: |-
-       Oldies
-    
 
 
   - block: markdown
