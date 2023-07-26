@@ -12,13 +12,15 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
     design:
-      spacing: {padding: [0, 0, 0, 0]}
+      spacing: {padding: [20, 0, 10, 0]}
   - block: about.biography
     id: about-bio
     content:
       title:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin2
+    design:
+      spacing: {padding: [10, 0, 10, 0]}
   - block: experience
     id: experience
     content:
@@ -70,6 +72,7 @@ sections:
           description: Math oral exam training for second-year liberal arts undergraduate students.                      
     design:
       columns: '2'
+      spacing: {padding: [10, 0, 10, 0]}
 
   - block: portfolio
     id: research
@@ -105,6 +108,7 @@ sections:
       view: list
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+      spacing: {padding: [10, 0, 10, 0]}
     text: |-
        Oldies
     
@@ -138,6 +142,7 @@ sections:
 
     design:
       columns: '1'
+      spacing: {padding: [10, 0, 10, 0]}
 
   - block: contact
     id: contact
@@ -179,4 +184,5 @@ sections:
       #    captcha: false
     design:
       columns: '2'
+      spacing: {padding: [10, 0, 10, 0]}
 ---
