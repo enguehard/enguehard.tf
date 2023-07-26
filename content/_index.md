@@ -19,6 +19,7 @@ sections:
     content:
       title: Research
       subtitle: (Current PhD projects)
+      text: This is text
       filters:
         folders:
           - project
@@ -76,7 +77,6 @@ sections:
 #        - **9 Dec 22**. I presented an earlier version of 'Local Living Standards in Colonial South Asia' at the AHEC Conference.
 #        - **7-15 Sep 22**. I visited the Harris School at the University of Chicago, invited by Scott Gehlbach.
 #        - **April-May 22**. I visited the Sant'Anna School of Advanced Studies in Pisa, invited by Alessandro Nuvolari.
-
 
     design:
       columns: '1'
