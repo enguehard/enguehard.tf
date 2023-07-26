@@ -12,7 +12,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
     design:
-      spacing: {padding: [100px, 0, 100px, 0]}
+      spacing: {padding: [1, 0, 60px, 0]}
   - block: about.biography
     id: about-bio
     content:
@@ -20,7 +20,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin2
     design:
-      spacing: {padding: [50px, 0, 50px, 0]}
+      spacing: {padding: [70px, 0, 60px, 0]}
   - block: experience
     id: experience
     content:
