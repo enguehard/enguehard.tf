@@ -1,10 +1,9 @@
 ---
-title: 'Local Living Standards in South Asia (1870-1930)'
-summary: 'This paper studies the Malthusian constraint on local living standards in colonial South Asia, based on a novel district-level dataset of subsistence ratios.'
+title: 'The Measure of Disorder: Population, State-Building and Rebellion in Old Regime France, 1661-1789'
+summary: 'Master's thesis.'
 tags:
-  - Economic History
-  - Empirical
-  - South Asia
+  - Dormant
+
 
 date: '2016-04-27T00:00:00Z'
 
@@ -20,8 +19,8 @@ image:
 
 links:
 url_code: ''
-url_pdf: ''
-url_slides: ''
+url_pdf: 'http://piketty.pse.ens.fr/files/Enguehard2020.pdf'
+url_slides: 'https://github.com/enguehard/enguehard.tf/blob/main/content/project/master/slides.pdf'
 url_video: ''
 
 # Slides (optional).
@@ -32,6 +31,4 @@ url_video: ''
 slides: 
 ---
 
-**Abstract**
-
-This paper studies the Malthusian constraint on local living standards in a large agricultural economy, colonial South Asia. I build subsistence ratios at the district level. A one percent increase in population density implies a one percent decrease in real wages, including two-ways fixed effects and controls. In a colonial setting of limited state, under-investment in agriculture leads to stagnating wages under population pressure. At the same time, local economies are not at the same stage of convergence to the Malthusian steady-state, implying large regional heterogeneity in living standards.
+(Unconclusive) Master's thesis.
