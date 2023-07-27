@@ -30,6 +30,8 @@ url_video: ''
 slides: 
 ---
 
+Part of the ENS/[EM Lyon](https://em-lyon.com/en/) Certificate in Economics.
+
 [Tutorial](Homework_Econ_ENS_EM.pdf)
 
 [Why Cobb-Douglas?](Why_Cobb_Douglas.pdf)
