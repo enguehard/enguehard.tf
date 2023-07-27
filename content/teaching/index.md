@@ -1,6 +1,6 @@
 ---
-title: 'Mathematics for economists - tutorial'
-summary: '3rd-year, ENS de Lyon'
+title: 'Fundamentals of Micro- and Macroeconomics'
+summary: 'Part of EM Lyon/ENS de Lyon Certificate in Economics.'
 tags:
   - Current
 
@@ -30,4 +30,6 @@ url_video: ''
 slides: 
 ---
 
-[Correction](Correction_TD2-1.pdf)
+[Tutorial](Homework_Econ_ENS_EM.pdf)
+
+[Why Cobb-Douglas?](Why_Cobb_Douglas.pdf)
