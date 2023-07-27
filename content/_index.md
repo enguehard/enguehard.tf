@@ -21,7 +21,7 @@ sections:
       subtitle: (Current PhD projects)
       filters:
         folders:
-          - projects
+          - research
       sort_by: 'Date'
       sort_ascending: false
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
@@ -154,7 +154,7 @@ sections:
       subtitle:
       filters:
         folders:
-          - teaching
+          - project
       sort_by: 'Date'
       sort_ascending: false
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
