@@ -29,6 +29,9 @@ My surname is pronounced [/ɑ̃gø.aʁ/](https://staff.fnwi.uva.nl/e.j.m.engueha
 
 More about [my experience](#experience) 
 
+My [CV](uploads/resume.pdf)
+
+
 __
 
 {style="text-align: justify;"}
