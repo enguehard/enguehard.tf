@@ -154,7 +154,7 @@ sections:
       subtitle:
       filters:
         folders:
-          - classes
+          - teaching
       sort_by: 'Date'
       sort_ascending: false
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
