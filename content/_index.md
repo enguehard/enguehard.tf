@@ -21,7 +21,7 @@ sections:
       subtitle: (Current PhD projects)
       filters:
         folders:
-          - project
+          - projects
       sort_by: 'Date'
       sort_ascending: false
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
@@ -169,7 +169,6 @@ sections:
           tag: Current
         - name: Past
           tag: Past
-
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
