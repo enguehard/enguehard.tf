@@ -60,7 +60,7 @@ sections:
       title: Some past events
       subtitle: ''
       text: |-
-       [Back to recent news](#about)
+       [Back to recent news](/#about)
 
         - **22 Jul 23**. I presented an earlier version of 'Lewis and Malthus' at the World Cliometrics Conference.
         - **28 Jun 23**. I presented an earlier version of 'Lewis and Malthus' at the LAGV Public Economics Days (AMSE).
