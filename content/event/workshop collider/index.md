@@ -13,9 +13,7 @@ address:
   country: France
 
 summary: Forthcoming Workshop on Advanced Methods for Data Collection and Use. More to come!
-abstract: 'This workshop will bring together researchers who are helping to push the research frontiers in the collection and use of data using advanced methods in a range of social science fields. The first session focuses on spatial data (including remote sensing and map recognition) and the second session covers various aspects of tabular data (including OCR/HTR and  table recognition). 
-
-I organize this event with the support of the École normale supérieure de Lyon (Collider "junior lab" grant) and the Center for Economic Research on Governance, Inequality and Conflict (CERGIC).'
+abstract: 'This workshop will bring together researchers who are helping to push the research frontiers in the collection and use of data using advanced methods in a range of social science fields. The first session focuses on spatial data (including remote sensing and map recognition) and the second session covers various aspects of tabular data (including OCR/HTR and  table recognition).'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -44,13 +42,10 @@ url_pdf: 'uploads/program.pdf'
 ---
 
 {{% callout note %}}
-Click on the **PDF** button above to view the built-in slides feature.
+Click on the **PDF** button above to view the program. In person only. Mandatory registration with this [page elements](https://wowchemy.com/docs/writing-markdown-latex/)
 {{% /callout %}}
 
-Slides can be added in a few ways:
 
-- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
 
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+I organize this event with the support of the École normale supérieure de Lyon (Collider "junior lab" grant) and the Center for Economic Research on Governance, Inequality and Conflict (CERGIC).
+
