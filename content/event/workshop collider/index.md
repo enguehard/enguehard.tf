@@ -36,8 +36,7 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
-links:
-  - url: 'http://economie.ens-lyon.fr/en/events/workshops/collider'
+
 url_pdf: 'uploads/program.pdf'
 
 
