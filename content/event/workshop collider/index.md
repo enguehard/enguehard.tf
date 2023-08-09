@@ -38,7 +38,7 @@ image:
 
 links:
   - url: 'http://economie.ens-lyon.fr/en/events/workshops/collider'
-url_pdf: 'program.pdf'
+url_pdf: 'uploads/program.pdf'
 
 
 
