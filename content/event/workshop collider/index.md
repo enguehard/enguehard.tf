@@ -3,6 +3,8 @@ title: Advanced Methods Workshop
 
 event: ENS Lyon Advanced Methods Workshop
 event_url: http://economie.ens-lyon.fr/en/events/workshops/collider
+# event_url: registration form link
+
 
 location: ENS de Lyon, D8.006
 address:
@@ -45,7 +47,7 @@ url_pdf: 'uploads/program.pdf'
 This event is offline only. Mandatory registration with this [form]() (soon).
 {{% /callout %}}
 
-[Tentative program](uploads/program.pdf)
+Click [here](uploads/program.pdf) for the tentative program.
 
 I organize this event with the support of the École normale supérieure de Lyon (Collider "junior lab" grant) and the Center for Economic Research on Governance, Inequality and Conflict (CERGIC).
 
