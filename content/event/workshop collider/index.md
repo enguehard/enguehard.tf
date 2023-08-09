@@ -42,10 +42,10 @@ url_pdf: 'uploads/program.pdf'
 ---
 
 {{% callout note %}}
-Click on the **PDF** button above to view the program. In person only. Mandatory registration with this [page elements](https://wowchemy.com/docs/writing-markdown-latex/)
+This event is offline only. Mandatory registration with this [form]() (soon).
 {{% /callout %}}
 
-
+[Tentative program](uploads/program.pdf)
 
 I organize this event with the support of the École normale supérieure de Lyon (Collider "junior lab" grant) and the Center for Economic Research on Governance, Inequality and Conflict (CERGIC).
 
