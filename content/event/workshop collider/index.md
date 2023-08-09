@@ -13,7 +13,9 @@ address:
   country: France
 
 summary: Forthcoming Workshop on Advanced Methods for Data Collection and Use. More to come!
-abstract: 'The workshop will bring together about eight speakers who contribute to pushing the research frontier in data collection and use with advanced methods. There will be one session on tabular data (including OCR/HTR and table recognition), and one session on spatial data (including remote sensing and map recognition). I thank ENS de Lyon (junior lab grant) and CERGIC for their financial support.'
+abstract: 'This workshop will bring together researchers who are helping to push the research frontiers in the collection and use of data using advanced methods in a range of social science fields. The first session focuses on spatial data (including remote sensing and map recognition) and the second session covers various aspects of tabular data (including OCR/HTR and  table recognition). 
+
+I organize this event with the support of the École normale supérieure de Lyon (Collider "junior lab" grant) and the Center for Economic Research on Governance, Inequality and Conflict (CERGIC).'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
