@@ -47,7 +47,7 @@ url_pdf: 'uploads/program.pdf'
 This event is offline only. Mandatory registration with this [form]() (soon).
 {{% /callout %}}
 
-Click [here](uploads/program.pdf) for the tentative program.
+Click [here](https://www.enguehard.tf/uploads/program.pdf) for the tentative program.
 
 I organize this event with the support of the École normale supérieure de Lyon (Collider "junior lab" grant) and the Center for Economic Research on Governance, Inequality and Conflict (CERGIC).
 
