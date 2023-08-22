@@ -44,10 +44,10 @@ url_pdf: 'uploads/program.pdf'
 ---
 
 {{% callout note %}}
-This event is offline only. Mandatory registration with this [form]() (soon).
+This event is offline only. Mandatory registration with this [form](https://framaforms.org/registration-form-advanced-methods-workshop-at-ens-de-lyon-1692721193).
 {{% /callout %}}
 
-Click [here](https://www.enguehard.tf/uploads/program.pdf) for the tentative program.
+Click [here](https://www.enguehard.tf/uploads/program.pdf) for the updated program.
 
 I organize this event with the support of the École normale supérieure de Lyon (Collider "junior lab" grant) and the Center for Economic Research on Governance, Inequality and Conflict (CERGIC).
 

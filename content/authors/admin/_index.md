@@ -33,9 +33,9 @@ title: Joseph Enguehard
 first_name: Joseph
 email: "joseph.enguehard@ens-lyon.fr"
 ---
-I am a PhD candidate in Economics at the Center for Economic Reserch on Governance, Inequality and Conflict ([CERGIC](http://economie.ens-lyon.fr/en/research/cergic)) within the [École normale supérieure de Lyon](https://www.ens-lyon.fr/en/). My research spans political economy, (macro) development and economic history.
+I am a PhD candidate in Economics at the Center for Economic Research on Governance, Inequality and Conflict ([CERGIC](http://economie.ens-lyon.fr/en/research/cergic)) within the [École normale supérieure de Lyon](https://www.ens-lyon.fr/en/). My research spans political economy, (macro) development and economic history.
 
-I am interested in various issues related to long-run economic and institutional development, including the political economy of taxation, military recruitment and resistance to the expansion of the state, the interaction between demographic transition and structural change, and historical living standards.
+I am interested in a variety of issues related to long-run economic and institutional development, including the political economy of taxation, military recruitment and resistance to state expansion, the interaction between demographic transition and structural change, and historical living standards.
 
 More about [my research](#research)
 
