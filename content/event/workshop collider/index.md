@@ -44,7 +44,7 @@ url_pdf: 'uploads/program.pdf'
 ---
 
 {{% callout note %}}
-This event is offline only. Mandatory registration with this [form](https://framaforms.org/registration-form-advanced-methods-workshop-at-ens-de-lyon-1692721193).
+This event is offline only. Mandatory registration before September 4 with this [form](https://framaforms.org/registration-form-advanced-methods-workshop-at-ens-de-lyon-1692721193).
 {{% /callout %}}
 
 Click [here](https://www.enguehard.tf/uploads/program.pdf) for the updated program.
