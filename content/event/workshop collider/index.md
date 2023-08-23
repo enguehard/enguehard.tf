@@ -14,7 +14,7 @@ address:
   postcode: '69007'
   country: France
 
-summary: Forthcoming Workshop on Advanced Methods for Data Collection and Use. More to come!
+summary: Forthcoming Workshop on Advanced Methods for Data Collection and Use at ENS de Lyon!
 abstract: 'This workshop will bring together researchers who are helping to push the research frontiers in the collection and use of data using advanced methods in a range of social science fields. The first session focuses on spatial data (including remote sensing and map recognition) and the second session covers various aspects of tabular data (including OCR/HTR and  table recognition).'
 
 # Talk start and end times.
