@@ -20,7 +20,7 @@ abstract: 'This workshop will bring together researchers who are helping to push
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2023-09-14T12:00:00Z'
-date_end: '2030-09-15T14:00:00Z'
+date_end: '2023-09-15T14:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
