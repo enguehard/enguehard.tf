@@ -45,6 +45,8 @@ More [about me](#about-bio)
 
 **News:**
 
+- **27-29 Sep 23**. I will be taking part in the Oxford Large Language Models for Social Science Workshop.
+
 - **14-15 Sep 23**. I organize a [workshop on advanced data collection methods at ENS de Lyon](talk/advanced-methods-workshop/).
 
 - **1 Sep 23**. I will present 'Endemic Violence' at the EHES meeting in Vienna. 
