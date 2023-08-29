@@ -19,7 +19,7 @@ image:
 links:
 url_code: ''
 url_pdf: 'http://piketty.pse.ens.fr/files/Enguehard2020.pdf'
-url_slides: 'project/master/slides.pdf'
+url_slides: 'research/master/slides.pdf'
 url_video: ''
 
 # Slides (optional).

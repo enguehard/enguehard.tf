@@ -18,7 +18,7 @@ image:
 
 links:
 url_code: ''
-url_pdf: 'project/preindus demographic picture/Demographic_Preindustrial_France.pdf'
+url_pdf: 'research/preindus demographic picture/Demographic_Preindustrial_France.pdf'
 url_video: ''
 
 # Slides (optional).
@@ -30,5 +30,3 @@ slides:
 ---
 
 Some facts on 18th-Century French demographics (old).
-
-[A Demographic Picture of Preindustrial France](Demographic_Preindustrial_France.pdf), 2020.
