@@ -49,5 +49,5 @@ This event is offline only. Mandatory registration by September 4 with this [for
 
 [Click here for the updated program](https://www.enguehard.tf/uploads/program.pdf).
 
-I organize this event with the support of the École normale supérieure de Lyon (Collider "junior lab" grant) and the Center for Economic Research on Governance, Inequality and Conflict (CERGIC).
+I organize this event with the support of the École normale supérieure de Lyon (Collider "junior lab" grant) and the Center for Economic Research on Governance, Inequality and Conflict.
 
