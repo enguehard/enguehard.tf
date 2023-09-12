@@ -44,8 +44,13 @@ url_pdf: 'uploads/program.pdf'
 ---
 
 {{% callout note %}}
-This event is offline only. Mandatory registration by September 4 with this [form](https://framaforms.org/registration-form-advanced-methods-workshop-at-ens-de-lyon-1692721193).
+In-person registration is closed. To attend online, register below.
 {{% /callout %}}
+
+[Click here to register for September 14 (online).](https://us06web.zoom.us/meeting/register/tZckc-CurTkjE9xTADj9Vx-Oo30yVmKyol9n).
+
+[Click here to register for September 15 (online).](https://us06web.zoom.us/meeting/register/tZ0sd-uhqjkpE9e26OEz1UgqH_ZG4E1PleK4).
+
 
 [Click here for the updated program](https://www.enguehard.tf/uploads/program.pdf).
 
