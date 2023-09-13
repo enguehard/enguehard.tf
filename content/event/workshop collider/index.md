@@ -8,7 +8,7 @@ event_url: http://economie.ens-lyon.fr/en/events/workshops/collider
 
 location: ENS de Lyon, D8.006
 address:
-  street: 15 parvis Descartes
+  street: 19, allée de Fontenay
   city: Lyon
   region:
   postcode: '69007'
