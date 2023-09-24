@@ -62,6 +62,7 @@ sections:
       text: |-
        [Back to recent news](/#about)
 
+        - **1 Sep 23**. I presented 'World Military Capacity' at the EHES meeting in Vienna. 
         - **22 Jul 23**. I presented an earlier version of 'Lewis and Malthus' at the World Cliometrics Conference.
         - **28 Jun 23**. I presented an earlier version of 'Lewis and Malthus' at the LAGV Public Economics Days (AMSE).
         - **5 Apr 23**. I presented an earlier version of 'Lewis and Malthus' at the ENSL-Bologna Junior Workshop.
