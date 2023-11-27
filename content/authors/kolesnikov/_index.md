@@ -11,7 +11,7 @@ first_name: Igor
 last_name: Kolesnikov
 highlight_name: true
 title: Igor Kolesnikov
-
+role: UC Berkeley
 ---
 
 
