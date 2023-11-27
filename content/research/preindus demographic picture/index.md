@@ -18,7 +18,7 @@ image:
 
 links:
 url_code: ''
-url_pdf: 'wp-content/uploads/Demographic_Preindustrial_France.pdf'
+url_pdf: 'research/preindus demographic picture/Demographic_Preindustrial_France.pdf'
 url_video: ''
 
 # Slides (optional).

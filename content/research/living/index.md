@@ -1,5 +1,5 @@
 ---
-title: 'Local Living Standards in South Asia (1870-1930)'
+title: 'Malthus in the Raj'
 summary: 'This paper studies the Malthusian constraint on local living standards in colonial South Asia, based on a novel district-level dataset of subsistence ratios.'
 tags:
   - Economic History
