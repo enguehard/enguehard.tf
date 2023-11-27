@@ -1,5 +1,5 @@
 ---
-title: From Salt to Strife  
+title: From Salt to Strife (with Eva Davoine & Igor Kolesnikov)
 summary: This project investigates the effect of spatial heterogeneity in taxation on social conflict.
 
 tags:
