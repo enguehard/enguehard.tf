@@ -7,9 +7,10 @@ superuser: false
 status:
   icon: ☕️
 highlight_name: true
-last_name: Eva Davoine, Joseph Enguehard & Igor Kolesnikov
+first_name: Igor
+last_name: Kolesnikov
 highlight_name: true
-title: Eva Davoine, Joseph Enguehard & Igor Kolesnikov
+title: Igor Kolesnikov
 
 ---
 
