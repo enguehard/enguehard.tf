@@ -46,14 +46,11 @@ More [about me](#about-bio)
 **News:**
 
 - **Apr-Jul 24**. At the invitation of Davide Cantoni, I will be visiting the Department of Economics at LMU.
-    <p> $\\[3cm]$ </p> 
+    <p> <br> </p>
 - Please reach me by **15 Jan 24** if you would like to be included in a session proposal for the WEHC 2025 on advanced data collection methods in economic history. [More information here](https://pbs.twimg.com/media/F_JsSpqWoAAgyUV?format=jpg&name=large).
-    <p> $\\[3cm]$ </p> 
+    <p> <br> </p>
 - **11-15 Dec 23**. I will be attending the RIDGE Summer School as part of the IEA Congress in Medellín.
-
-
-
-
+    <p> <br> </p>
 - [Past news](#past)
 
 {style="text-align: justify;"}
