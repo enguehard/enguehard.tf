@@ -62,6 +62,8 @@ sections:
       text: |-
        [Back to recent news](/#about)
 
+        - **27-29 Sep 23**. I took part in the Oxford Large Language Models for Social Science Workshop.
+        - **14-15 Sep 23**. I organized a [workshop on advanced data collection methods at ENS de Lyon](talk/advanced-methods-workshop/).
         - **1 Sep 23**. I presented 'World Military Capacity' at the EHES meeting in Vienna. 
         - **22 Jul 23**. I presented an earlier version of 'Lewis and Malthus' at the World Cliometrics Conference.
         - **28 Jun 23**. I presented an earlier version of 'Lewis and Malthus' at the LAGV Public Economics Days (AMSE).
