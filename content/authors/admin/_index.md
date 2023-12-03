@@ -6,10 +6,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: x-square
+  - icon: xsquare
     icon_pack: fab
     link: https://twitter.com/EnguehardJoseph
-    label: Follow me on X
+    label: Follow me on Twitter
     display:
       header: true
   - icon: skyatlas
