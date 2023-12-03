@@ -6,13 +6,13 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-   - icon: x
+  - icon: twitter
     icon_pack: fab
     link: https://twitter.com/EnguehardJoseph
     label: Follow me on X
     display:
       header: true
-  - icon: bluesky
+  - icon: twitter
     icon_pack: fab
     link: https://bsky.app/profile/enguehard.bsky.social
     label: Follow me on Bluesky
