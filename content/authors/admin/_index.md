@@ -6,7 +6,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
+  - icon: x
     icon_pack: fab
     link: https://twitter.com/EnguehardJoseph
     label: Follow me on X
