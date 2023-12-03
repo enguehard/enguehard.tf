@@ -206,6 +206,10 @@ sections:
         #- 'Monday 10:00 to 13:00'
         #- 'Wednesday 09:00 to 10:00'
       contact_links:
+        - icon: skyatlas
+          icon_pack: fab
+          name: Bluesky
+          link: 'https://bsky.app/profile/enguehard.bsky.social'      
         - icon: twitter
           icon_pack: fab
           name: Twitter
