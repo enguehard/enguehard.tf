@@ -54,7 +54,7 @@ More [about me](#about-bio)
     <p> <br> </p>
 - **Apr-Jul 24**. At the invitation of Davide Cantoni, I will be visiting the Department of Economics at LMU.
     <p> <br> </p>
-- **20-22 February**. I will be attending the INET/YSI Meeting of Young Minds at IIT Bombay.
+- **20-22 February**. I will present 'Lewis & Malthus...' at the INET/YSI Meeting of Young Minds in Frontiers of Economics at IIT Bombay.
     <p> <br> </p>
 
 
