@@ -50,11 +50,11 @@ More [about me](#about-bio)
 
 
 **News:**
-- **May 21-22**. I organize the Advanced Methods workshop in Lyon. Please submit your abstract by **Feb 2**. [More information here](https://pbs.twimg.com/media/GEX3gW0WwAAkTov?format=jpg&name=large). [Program of the last edition](http://economie.ens-lyon.fr/sites/default/files/2023-08/program_0.pdf).
+- **May 21-22**. I organize the Advanced Methods Workshop in Lyon. [Tentative program soon](www.enguehard.tf).
     <p> <br> </p>
 - **Apr-Jul 24**. At the invitation of Davide Cantoni, I will be visiting the Department of Economics at LMU.
     <p> <br> </p>
-- **20-22 February**. I will present 'Lewis & Malthus...' at the INET/YSI Meeting of Young Minds in Frontiers of Economics at IIT Bombay.
+- **5-7 March**. I am happy to present 'From Salt to Strife' at the HEDG Workshop at SDU Odense.
     <p> <br> </p>
 
 
