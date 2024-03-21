@@ -1,6 +1,6 @@
 ---
 title: The Political Costs of Taxation (with Eva Davoine & Igor Kolesnikov)
-summary: This project investigates the political economy of salt taxation in old regime France.
+summary: #This project investigates the political economy of salt taxation in old regime France.
 
 tags:
   - Political Economy
@@ -34,11 +34,14 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
+
+#This project investigates the political economy of salt taxation in old regime France.
+#This project investigates the effect of spatial heterogeneity in taxation on social conflict, using local variation in salt taxation in 18th-century France. 
+
+
 slides:
 ---
 
 **Abstract**
 
-This project investigates the political economy of salt taxation in old regime France.
-# This project investigates the effect of spatial heterogeneity in taxation on social conflict, using local variation in salt taxation in 18th-century France. 
  
