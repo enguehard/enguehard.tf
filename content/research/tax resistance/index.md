@@ -1,6 +1,6 @@
 ---
-title: From Salt to Strife (with Eva Davoine & Igor Kolesnikov)
-summary: This project investigates the effect of spatial heterogeneity in taxation on social conflict.
+title: The Political Costs of Taxation (with Eva Davoine & Igor Kolesnikov)
+summary: This project investigates the political economy of salt taxation in old regime France.
 
 tags:
   - Political Economy
@@ -39,5 +39,6 @@ slides:
 
 **Abstract**
 
-This project investigates the effect of spatial heterogeneity in taxation on social conflict, using local variation in salt taxation in 18th-century France. 
+This project investigates the political economy of salt taxation in old regime France.
+# This project investigates the effect of spatial heterogeneity in taxation on social conflict, using local variation in salt taxation in 18th-century France. 
  

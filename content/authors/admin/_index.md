@@ -50,12 +50,11 @@ More [about me](#about-bio)
 
 
 **News:**
-- **May 21-22**. I organize the Advanced Methods Workshop in Lyon. [Tentative program soon](www.enguehard.tf).
+- **May 21-22**. I organize the Advanced Methods Workshop in Lyon. [Tentative program soon](uploads/program2024.pdf).
     <p> <br> </p>
 - **Apr-Jul 24**. At the invitation of Davide Cantoni, I will be visiting the Department of Economics at LMU.
     <p> <br> </p>
-- **5-7 March**. I am happy to present 'From Salt to Strife' at the HEDG Workshop at SDU Odense.
-    <p> <br> </p>
+
 
 
 - [Past news](#past)
