@@ -50,9 +50,9 @@ More [about me](#about-bio)
 
 
 **News:**
-- **May 21-22**. I organize the Advanced Methods Workshop in Lyon. [Tentative program](uploads/program2024.pdf).
+- **May 21-22**. I organize the Advanced Methods (hybrid) Workshop in Lyon. [Program](uploads/program2024.pdf). Please register [here](https://framaforms.org/lyon-advanced-methods-workshop-may-21-22-registration-1704804102) by April 21 for in-person or online attendance.
     <p> <br> </p>
-- **Apr-Jul 24**. At the invitation of Davide Cantoni, I will be visiting the Department of Economics at LMU.
+- **Apr-Jul 24**. At the invitation of Davide Cantoni, I am visiting the Department of Economics at LMU.
     <p> <br> </p>
 
 
