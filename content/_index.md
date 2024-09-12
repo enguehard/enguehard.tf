@@ -62,6 +62,10 @@ sections:
       subtitle: ''
       text: |-
        [Back to recent news](/#about)
+
+        - **26-28 Jun**. I presented "Political Costs" at FRESH in Louvain.
+        - **May 21-22**. I organized the Advanced Methods (hybrid) Workshop in Lyon. [Program](uploads/program2024.pdf).
+        - **Apr-Jul 24**. At the invitation of Davide Cantoni, I visited the Department of Economics at LMU.
         - **5-7 March**. I presented at the HEDG Workshop at SDU Odense.
         - **27-29 Sep 23**. I took part in the Oxford Large Language Models for Social Science Workshop.
         - **14-15 Sep 23**. I organized a [workshop on advanced data collection methods at ENS de Lyon](talk/advanced-methods-workshop/).
