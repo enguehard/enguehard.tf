@@ -27,7 +27,7 @@ social:
 organizations:
   - name: École normale supérieure de Lyon
     url: http://economie.ens-lyon.fr/en/
-  - name: Università di Bologna - Alma mater studiorum
+  - name: Alma Mater Studiorum
     url: https://www.unibo.it/en
 
 
