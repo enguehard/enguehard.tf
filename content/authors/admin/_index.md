@@ -8,7 +8,7 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/EnguehardJoseph
+    link: https://x.com/EnguehardJoseph
     label: Follow me on Twitter
     display:
       header: true
@@ -27,6 +27,8 @@ social:
 organizations:
   - name: École normale supérieure de Lyon
     url: http://economie.ens-lyon.fr/en/
+  - name: Università di Bologna - Alma mater studiorum
+    url: https://www.unibo.it/en
 
 
 superuser: true
