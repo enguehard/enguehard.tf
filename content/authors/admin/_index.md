@@ -50,14 +50,14 @@ More about [my research](#research)
 More [about me](#about-bio)
 
 
-
+<!--
 **News:**
-- **Sep 20-21**. I will present "Political Costs..." at ASREC in Thessaloniki.
+#- **Sep 20-21**. I will present "Political Costs..." at ASREC in Thessaloniki.
     <p> <br> </p>
-- **Oct 9**. I will present "Political Costs..." at the LSE econ history graduate seminar.
+- **Oct 9**. I presented "Political Costs" at the LSE econ history graduate seminar.
     <p> <br> </p>
 
-
+-->
 
 - [Past news](#past)
 

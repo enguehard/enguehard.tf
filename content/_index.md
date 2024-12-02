@@ -62,11 +62,12 @@ sections:
       subtitle: ''
       text: |-
        [Back to recent news](/#about)
-
-        - **26-28 Jun**. I presented "Political Costs" at FRESH in Louvain.
-        - **May 21-22**. I organized the Advanced Methods (hybrid) Workshop in Lyon. [Program](uploads/program2024.pdf).
+        - **21 Nov 24**. I presented "Political Costs" at the Collegio Carlo Alberto PhD workshop.
+        - **9 Oct 24**. I presented "Political Costs" at the LSE econ history graduate seminar.
+        - **26-28 Jun 24**. I presented "Political Costs" at FRESH in Louvain.
+        - **21-22 May 24**. I organized the Advanced Methods (hybrid) Workshop in Lyon. [Program](uploads/program2024.pdf).
         - **Apr-Jul 24**. At the invitation of Davide Cantoni, I visited the Department of Economics at LMU.
-        - **5-7 March**. I presented at the HEDG Workshop at SDU Odense.
+        - **5-7 March 24**. I presented at the HEDG Workshop at SDU Odense.
         - **27-29 Sep 23**. I took part in the Oxford Large Language Models for Social Science Workshop.
         - **14-15 Sep 23**. I organized a [workshop on advanced data collection methods at ENS de Lyon](talk/advanced-methods-workshop/).
         - **1 Sep 23**. I presented 'World Military Capacity' at the EHES meeting in Vienna. 

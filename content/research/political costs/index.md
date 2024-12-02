@@ -19,8 +19,8 @@ image:
 
 links:
 url_code: ''
-url_pdf: 'research/political costs/political-costs.pdf'
-url_slides: ''
+url_pdf: ''
+url_slides: 'research/political costs/political-costs.pdf'
 url_video: ''
 url_dataset: ''
 url_poster: ''
