@@ -12,6 +12,7 @@ last_name: Davoine
 highlight_name: true
 title: Eva Davoine
 role: UC Berkeley
+url: https://evadavoine.com/
 
 ---
 
