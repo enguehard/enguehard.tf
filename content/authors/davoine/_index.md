@@ -11,8 +11,8 @@ first_name: Eva
 last_name: Davoine
 highlight_name: true
 title: Eva Davoine
-role: [UC Berkeley](evadavoine.com)
-url: 
+role: UC Berkeley 
+url: evadavoine.com
 
 ---
 
