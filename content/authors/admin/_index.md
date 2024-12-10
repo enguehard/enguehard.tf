@@ -52,7 +52,7 @@ More [about me](#about-bio)
 
 
 **News:**
-#- **Feb 7-8, 2025**. I will present "Political Costs..." at the CEPR Applied Micro-Economic History Workshop in Heidelberg.
+**Feb 7-8, 2025**. I will present "Political Costs..." at the CEPR Applied Micro-Economic History Workshop in Heidelberg.
     <p> <br> </p>
 
 
