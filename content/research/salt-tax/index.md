@@ -1,5 +1,5 @@
 ---
-title: The Political Costs of Taxation (with Eva Davoine & Igor Kolesnikov)
+title: Tax Design with Heterogeneous State Capacity (with Eva Davoine, Victor Gay & Igor Kolesnikov)
 summary: #This project investigates the political economy of salt taxation in old regime France.
 
 tags:
@@ -8,7 +8,7 @@ tags:
   - Empirical
   - Work in Progress
 date: '2016-04-27T00:00:00Z'
-authors: [davoine, admin, kolesnikov]
+authors: [davoine, admin, gay, kolesnikov]
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -44,4 +44,4 @@ slides:
 
 **Abstract**
 
- We examine the political costs of taxation in early modern France. We focus on efforts to enforce the salt tax, the rate of which varied across regions. Using a spatial difference-in-discontinuities design, we compare municipalities just inside the high-tax region with those just outside, before and after a reform aimed at curbing illicit salt smuggling. We find that tax enforcement led to a tenfold increase in conflicts between taxpayers and the state in municipalities in the high-tax region. This effect persists until the French Revolution, consistent with the idea that salt tax enforcement had significant political costs. Finally, we document that the likelihood of conflict increases with tax differences between neighboring regions, which we use to derive an upper bound on the political costs of increased tax enforcement in this historical period. 
+  
