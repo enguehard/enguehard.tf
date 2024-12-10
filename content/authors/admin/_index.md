@@ -50,12 +50,13 @@ More about [my research](#research)
 More [about me](#about-bio)
 
 
-<!--
+
 **News:**
-#- **Sep 20-21**. I will present "Political Costs..." at ASREC in Thessaloniki.
+#- **Feb 7-8, 2025**. I will present "Political Costs..." at the CEPR Applied Micro-Economic History Workshop in Heidelberg.
     <p> <br> </p>
-- **Oct 9**. I presented "Political Costs" at the LSE econ history graduate seminar.
-    <p> <br> </p>
+
+
+<!--
 
 -->
 
