@@ -5,8 +5,8 @@ summary:
 tags:
 #  - Political Economy
 #  - State Capacity
-#  - Empirical
-#  - Work in Progress
+  - Empirical
+  - Work in Progress
 date: '2016-04-27T00:00:00Z'
 authors: [barban, blanc, admin]
 
