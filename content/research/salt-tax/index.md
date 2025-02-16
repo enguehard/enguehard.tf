@@ -1,5 +1,5 @@
 ---
-title: Tax Design with Heterogeneous State Capacity (with Eva Davoine, Victor Gay & Igor Kolesnikov)
+title: 'Early Modern Tax Technology: Local Evidence from the French Gabelle (with Eva Davoine, Victor Gay & Igor Kolesnikov)'
 summary: #This project investigates the political economy of salt taxation in old regime France.
 
 tags:
@@ -19,7 +19,7 @@ image:
 
 links:
 url_code: ''
-url_pdf:
+url_pdf: 'research/political-costs/gabelles.pdf'
 url_slides: ''
 url_video: ''
 url_dataset: ''
@@ -43,5 +43,7 @@ slides:
 ---
 
 **Abstract**
+ Preliminary and incomplete version: A Historical Geographic Information System of the Grandes Gabelles in Early Modern France.
 
+ This note presents the development of a parish-level historical geographic information system (GIS) for the seventeenth-century French salt tax system of the gabelles based using an original manuscript map collection from 1665: Sanson's \textit{Atlas des gabelles}. In addition, it offers a detailed account of the tax system and provides international comparisons to contextualize its significance.
   
