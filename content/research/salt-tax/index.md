@@ -43,7 +43,5 @@ slides:
 ---
 **PRELIMINARY AND INCOMPLETE VERSION:** A Historical Geographic Information System of the Grandes Gabelles in Early Modern France.
 
-**Abstract**
- 
- This note presents the development of a parish-level historical geographic information system (GIS) for the seventeenth-century French salt tax system of the gabelles based using an original manuscript map collection from 1665: Sanson's \textit{Atlas des gabelles}. In addition, it offers a detailed account of the tax system and provides international comparisons to contextualize its significance.
+**Abstract** This note presents the development of a parish-level historical geographic information system (GIS) for the seventeenth-century French salt tax system of the gabelles based using an original manuscript map collection from 1665: Sanson's \textit{Atlas des gabelles}. In addition, it offers a detailed account of the tax system and provides international comparisons to contextualize its significance.
   
