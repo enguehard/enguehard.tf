@@ -19,12 +19,12 @@ image:
 
 links:
 url_code: ''
-url_pdf: 'research/political-costs/gabelles.pdf'
+url_pdf: ''
 url_slides: ''
 url_video: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'research/political-costs/gabelles.pdf'
 url_slides: ''
 url_source: ''
 url_video: ''
